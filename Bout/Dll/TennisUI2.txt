@@ -1,0 +1,1934 @@
+data.startTime:-1378138217 data.endTime: -1378040634 t:97
+data.startTime:-1378138217 data.endTime: -1378040634 t:97
+data.startTime:-1378138217 data.endTime: -1378040634 t:97
+data.startTime:-1378138217 data.endTime: -1378040634 t:97
+data.startTime:-1378138217 data.endTime: -1378040634 t:97
+data.startTime:-1373454973 data.endTime: -1373409359 t:45
+data.startTime:-1373409359 data.endTime: -1373315388 t:93
+data.startTime:-1373315388 data.endTime: -1373250675 t:64
+data.startTime:-1373454973 data.endTime: -1373409359 t:45
+data.startTime:-1373409359 data.endTime: -1373315388 t:93
+data.startTime:-1373315388 data.endTime: -1373250675 t:64
+data.startTime:-1373454973 data.endTime: -1373409359 t:45
+data.startTime:-1373409359 data.endTime: -1373315388 t:93
+data.startTime:-1373315388 data.endTime: -1373250675 t:64
+data.startTime:-1373454973 data.endTime: -1373409359 t:45
+data.startTime:-1373409359 data.endTime: -1373315388 t:93
+data.startTime:-1373315388 data.endTime: -1373250675 t:64
+data.startTime:-1373454973 data.endTime: -1373409359 t:45
+data.startTime:-1373409359 data.endTime: -1373315388 t:93
+data.startTime:-1373315388 data.endTime: -1373250675 t:64
+data.startTime:-1373454973 data.endTime: -1373409359 t:45
+data.startTime:-1373409359 data.endTime: -1373315388 t:93
+data.startTime:-1373454973 data.endTime: -1373409359 t:45
+data.startTime:-1373409359 data.endTime: -1373315388 t:93
+data.startTime:-1373454973 data.endTime: -1373409359 t:45
+data.startTime:-1373409359 data.endTime: -1373315388 t:93
+data.startTime:-1373250675 data.endTime: -1372859037 t:391
+data.startTime:-1372859037 data.endTime: -1372804014 t:55
+data.startTime:-1372804014 data.endTime: -1372795851 t:8
+data.startTime:-1373250675 data.endTime: -1372859037 t:391
+data.startTime:-1372859037 data.endTime: -1372804014 t:55
+data.startTime:-1372804014 data.endTime: -1372795851 t:8
+data.startTime:-1373250675 data.endTime: -1372859037 t:391
+data.startTime:-1372859037 data.endTime: -1372804014 t:55
+data.startTime:-1372804014 data.endTime: -1372795851 t:8
+data.startTime:-1356107006 data.endTime: -1356062551 t:44
+data.startTime:-1356062551 data.endTime: -1355932330 t:130
+data.startTime:-1355932330 data.endTime: -1355858188 t:74
+data.startTime:-1356107006 data.endTime: -1356062551 t:44
+data.startTime:-1356062551 data.endTime: -1355932330 t:130
+data.startTime:-1355932330 data.endTime: -1355858188 t:74
+data.startTime:-1356107006 data.endTime: -1356062551 t:44
+data.startTime:-1356062551 data.endTime: -1355932330 t:130
+data.startTime:-1355932330 data.endTime: -1355858188 t:74
+Display time: 0.155004
+m_isplay: 1
+time: 0.155004
+Alltime: 44
+Display(a): 0
+Display time: 1.15327
+m_isplay: 1
+time: 1.15327
+Alltime: 44
+Display(a): 2
+Display time: 2.15486
+m_isplay: 1
+time: 2.15486
+Alltime: 44
+Display(a): 4
+Display time: 3.15431
+m_isplay: 1
+time: 3.15431
+Alltime: 44
+Display(a): 6
+Display time: 4.15271
+m_isplay: 1
+time: 4.15271
+Alltime: 44
+Display(a): 8
+Display time: 5.15323
+m_isplay: 1
+time: 5.15323
+Alltime: 44
+Display(a): 10
+Display time: 6.15238
+m_isplay: 1
+time: 6.15238
+Alltime: 44
+Display(a): 12
+Display time: 7.15431
+m_isplay: 1
+time: 7.15431
+Alltime: 44
+Display(a): 14
+Display time: 8.15325
+m_isplay: 1
+time: 8.15325
+Alltime: 44
+Display(a): 16
+Display time: 9.15217
+m_isplay: 1
+time: 9.15217
+Alltime: 44
+Display(a): 18
+Display time: 10.1532
+m_isplay: 1
+time: 10.1532
+Alltime: 44
+Display(a): 20
+Display time: 11.1525
+m_isplay: 1
+time: 11.1525
+Alltime: 44
+Display(a): 22
+Display time: 12.1546
+m_isplay: 1
+time: 12.1546
+Alltime: 44
+Display(a): 24
+Display time: 13.1534
+m_isplay: 1
+time: 13.1534
+Alltime: 44
+Display(a): 26
+Display time: 14.1531
+m_isplay: 1
+time: 14.1531
+Alltime: 44
+Display(a): 28
+Display time: 15.1554
+m_isplay: 1
+time: 15.1554
+Alltime: 44
+Display(a): 30
+Display time: 16.1553
+m_isplay: 1
+time: 16.1553
+Alltime: 44
+Display(a): 32
+Display time: 17.1516
+m_isplay: 1
+time: 17.1516
+Alltime: 44
+Display(a): 34
+Display time: 18.1516
+m_isplay: 1
+time: 18.1516
+Alltime: 44
+Display(a): 36
+Display time: 19.1533
+m_isplay: 1
+time: 19.1533
+Alltime: 44
+Display(a): 38
+Display time: 20.1604
+m_isplay: 1
+time: 20.1604
+Alltime: 44
+Display(a): 40
+Display time: 21.1613
+m_isplay: 1
+time: 21.1613
+Alltime: 44
+Display(a): 42
+Display time: 22.1558
+m_isplay: 1
+time: 22.1558
+Alltime: 44
+Display(a): 44
+Display time: 23.1528
+m_isplay: 1
+time: 23.1528
+Alltime: 44
+Display(a): 46
+Display time: 24.1556
+m_isplay: 1
+time: 24.1556
+Alltime: 44
+Display(a): 48
+Display time: 25.1522
+m_isplay: 1
+time: 25.1522
+Alltime: 44
+Display(a): 50
+Display time: 26.1522
+m_isplay: 1
+time: 26.1522
+Alltime: 44
+Display(a): 52
+Display time: 27.1516
+m_isplay: 1
+time: 27.1516
+Alltime: 44
+Display(a): 54
+Display time: 28.1529
+m_isplay: 1
+time: 28.1529
+Alltime: 44
+Display(a): 56
+Display time: 29.1522
+m_isplay: 1
+time: 29.1522
+Alltime: 44
+Display(a): 58
+Display time: 30.1554
+m_isplay: 1
+time: 30.1554
+Alltime: 44
+Display(a): 60
+Display time: 31.1521
+m_isplay: 1
+time: 31.1521
+Alltime: 44
+Display(a): 62
+Display time: 32.1588
+m_isplay: 1
+time: 32.1588
+Alltime: 44
+Display(a): 64
+Display time: 33.152
+m_isplay: 1
+time: 33.152
+Alltime: 44
+Display(a): 66
+Display time: 34.1541
+m_isplay: 1
+time: 34.1541
+Alltime: 44
+Display(a): 68
+Display time: 35.1576
+m_isplay: 1
+time: 35.1576
+Alltime: 44
+Display(a): 70
+Display time: 36.1522
+m_isplay: 1
+time: 36.1522
+Alltime: 44
+Display(a): 72
+Display time: 37.1523
+m_isplay: 1
+time: 37.1523
+Alltime: 44
+Display(a): 74
+Display time: 38.1522
+m_isplay: 1
+time: 38.1522
+Alltime: 44
+Display(a): 76
+Display time: 39.1562
+m_isplay: 1
+time: 39.1562
+Alltime: 44
+Display(a): 78
+Display time: 40.1519
+m_isplay: 1
+time: 40.1519
+Alltime: 44
+Display(a): 80
+Display time: 41.1539
+m_isplay: 1
+time: 41.1539
+Alltime: 44
+Display(a): 82
+Display time: 42.1557
+m_isplay: 1
+time: 42.1557
+Alltime: 44
+Display(a): 84
+Display time: 43.1582
+m_isplay: 1
+time: 43.1582
+Alltime: 44
+Display(a): 86
+Display time: 0.0427268
+m_isplay: 1
+time: 0.0427268
+Alltime: 120
+Display(a): 0
+Display time: 0.959417
+m_isplay: 1
+time: 0.959417
+Alltime: 120
+Display(a): 0
+Display time: 1.96191
+m_isplay: 1
+time: 1.96191
+Alltime: 120
+Display(a): 2
+Display time: 2.96176
+m_isplay: 1
+time: 2.96176
+Alltime: 120
+Display(a): 4
+Display time: 3.96425
+m_isplay: 1
+time: 3.96425
+Alltime: 120
+Display(a): 6
+Display time: 53.8118
+m_isplay: 1
+time: 53.8118
+Alltime: 120
+Display(a): 106
+Display time: 54.8127
+m_isplay: 1
+time: 54.8127
+Alltime: 120
+Display(a): 108
+Display time: 84.2556
+m_isplay: 1
+time: 84.2556
+Alltime: 120
+Display(a): 168
+Display time: 85.2601
+m_isplay: 1
+time: 85.2601
+Alltime: 120
+Display(a): 170
+Display time: 111.9
+m_isplay: 1
+time: 111.9
+Alltime: 120
+Display(a): 222
+Display time: 112.901
+m_isplay: 1
+time: 112.901
+Alltime: 120
+Display(a): 224
+Display time: 113.897
+m_isplay: 1
+time: 113.897
+Alltime: 120
+Display(a): 226
+Display time: 114.902
+m_isplay: 1
+time: 114.902
+Alltime: 120
+Display(a): 228
+Display time: 115.898
+m_isplay: 1
+time: 115.898
+Alltime: 120
+Display(a): 230
+Display time: 116.9
+m_isplay: 1
+time: 116.9
+Alltime: 120
+Display(a): 232
+Display time: 117.9
+m_isplay: 1
+time: 117.9
+Alltime: 120
+Display(a): 234
+Display time: 118.901
+m_isplay: 1
+time: 118.901
+Alltime: 120
+Display(a): 236
+Display time: 119.9
+m_isplay: 1
+time: 119.9
+Alltime: 120
+Display(a): 238
+Display time: 0.125355
+m_isplay: 1
+time: 0.125355
+Alltime: 67
+Display(a): 0
+Display time: 1.12416
+m_isplay: 1
+time: 1.12416
+Alltime: 67
+Display(a): 2
+Display time: 2.12905
+m_isplay: 1
+time: 2.12905
+Alltime: 67
+Display(a): 4
+Display time: 34.6521
+m_isplay: 1
+time: 34.6521
+Alltime: 67
+Display(a): 68
+Display time: 49.6443
+m_isplay: 1
+time: 49.6443
+Alltime: 67
+Display(a): 98
+Display time: 56.1351
+m_isplay: 1
+time: 56.1351
+Alltime: 67
+Display(a): 112
+Display time: 57.1343
+m_isplay: 1
+time: 57.1343
+Alltime: 67
+Display(a): 114
+Display time: 58.1384
+m_isplay: 1
+time: 58.1384
+Alltime: 67
+Display(a): 116
+Display time: 59.1409
+m_isplay: 1
+time: 59.1409
+Alltime: 67
+Display(a): 118
+Display time: 60.1395
+m_isplay: 1
+time: 60.1395
+Alltime: 67
+Display(a): 120
+Display time: 61.1358
+m_isplay: 1
+time: 61.1358
+Alltime: 67
+Display(a): 122
+Display time: 62.1363
+m_isplay: 1
+time: 62.1363
+Alltime: 67
+Display(a): 124
+Display time: 63.1348
+m_isplay: 1
+time: 63.1348
+Alltime: 67
+Display(a): 126
+Display time: 64.136
+m_isplay: 1
+time: 64.136
+Alltime: 67
+Display(a): 128
+Display time: 65.1431
+m_isplay: 1
+time: 65.1431
+Alltime: 67
+Display(a): 130
+Display time: 66.1412
+m_isplay: 1
+time: 66.1412
+Alltime: 67
+Display(a): 132
+Display time: 67.1389
+m_isplay: 1
+time: 67.1389
+Alltime: 67
+Display(a): 134
+data.startTime:-1356107006 data.endTime: -1356062551 t:44
+data.startTime:-1356062551 data.endTime: -1355932330 t:130
+data.startTime:-1355932330 data.endTime: -1355858188 t:74
+Display time: 0.485213
+m_isplay: 1
+time: 0.485213
+Alltime: 46.36
+Display(a): 0
+Display time: 1.52325
+m_isplay: 1
+time: 1.52325
+Alltime: 46
+Display(a): 2
+Display time: 2.48724
+m_isplay: 1
+time: 2.48724
+Alltime: 46
+Display(a): 4
+Display time: 3.48512
+m_isplay: 1
+time: 3.48512
+Alltime: 46
+Display(a): 6
+Display time: 4.48725
+m_isplay: 1
+time: 4.48725
+Alltime: 46
+Display(a): 8
+Display time: 5.4854
+m_isplay: 1
+time: 5.4854
+Alltime: 46
+Display(a): 10
+Display time: 39.2737
+m_isplay: 1
+time: 39.2737
+Alltime: 46
+Display(a): 78
+Display time: 40.272
+m_isplay: 1
+time: 40.272
+Alltime: 46
+Display(a): 80
+Display time: 0.516227
+m_isplay: 1
+time: 0.516227
+Alltime: 129
+Display(a): 0
+Display time: 1.51693
+m_isplay: 1
+time: 1.51693
+Alltime: 129
+Display(a): 2
+Display time: 2.51822
+m_isplay: 1
+time: 2.51822
+Alltime: 129
+Display(a): 4
+Display time: 74.4402
+m_isplay: 1
+time: 74.4402
+Alltime: 129
+Display(a): 148
+Display time: 75.4454
+m_isplay: 1
+time: 75.4454
+Alltime: 129
+Display(a): 150
+Display time: 0.158937
+m_isplay: 1
+time: 0.158937
+Alltime: 34
+Display(a): 0
+Display time: 1.15665
+m_isplay: 1
+time: 1.15665
+Alltime: 34
+Display(a): 2
+Display time: 12.2068
+m_isplay: 1
+time: 12.2068
+Alltime: 34
+Display(a): 24
+Display time: 26.6625
+m_isplay: 1
+time: 26.6625
+Alltime: 34
+Display(a): 52
+Display time: 27.6621
+m_isplay: 1
+time: 27.6621
+Alltime: 34
+Display(a): 54
+Display time: 28.6626
+m_isplay: 1
+time: 28.6626
+Alltime: 34
+Display(a): 56
+Display time: 29.6595
+m_isplay: 1
+time: 29.6595
+Alltime: 34
+Display(a): 58
+Display time: 30.6624
+m_isplay: 1
+time: 30.6624
+Alltime: 34
+Display(a): 60
+Display time: 31.6606
+m_isplay: 1
+time: 31.6606
+Alltime: 34
+Display(a): 62
+Display time: 32.6565
+m_isplay: 1
+time: 32.6565
+Alltime: 34
+Display(a): 64
+Display time: 33.6657
+m_isplay: 1
+time: 33.6657
+Alltime: 34
+Display(a): 66
+0 false
+1 true
+data.startTime:-1312092605 data.endTime: -1312046924 t:45
+2 true
+data.startTime:-1312046924 data.endTime: -1311974972 t:71
+3 true
+data.startTime:-1311974972 data.endTime: -1311963249 t:11
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476156702900
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476156774852
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476156786575
+m_videoData->isDeprecated:0
+0 false
+1 true
+data.startTime:-1312092605 data.endTime: -1312046924 t:45
+2 true
+data.startTime:-1312046924 data.endTime: -1311974972 t:71
+3 true
+data.startTime:-1311974972 data.endTime: -1311963249 t:11
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476156702900
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476156774852
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476156786575
+m_videoData->isDeprecated:0
+0 false
+1 true
+data.startTime:-1312092605 data.endTime: -1312046924 t:45
+2 true
+data.startTime:-1312046924 data.endTime: -1311974972 t:71
+3 true
+data.startTime:-1311974972 data.endTime: -1311963249 t:11
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476156702900
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476156774852
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476156786575
+m_videoData->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476156702900
+m_mapData[3]->timeDidentify:1476156774852
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476156702900
+it->timeDidentify: 1476156774852
+it->timeDidentify: 1476156786575
+Display time: 0.0541379
+m_isplay: 1
+time: 0.0541379
+Alltime: 45.16
+Display(a): 0
+m_currentDuration: 45
+Display time: 1.0496
+m_isplay: 1
+time: 1.0496
+Alltime: 45.16
+Display(a): 2
+m_currentDuration: 45
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1476177531584
+m_mapData[2]->timeDidentify:0
+m_mapData[3]->timeDidentify:0
+m_mapData[4]->timeDidentify:1476177531584
+m_mapData[5]->timeDidentify:1476177542431
+m_mapData[6]->timeDidentify:1476177544657
+m_mapData[7]->timeDidentify:1476177549344
+m_mapData[8]->timeDidentify:1476177552855
+m_mapData[9]->timeDidentify:1476177556887
+m_mapData[10]->timeDidentify:1476177558551
+inx: 4
+it->timeDidentify: 0
+Got1  data.timeDidentify:1476177531584
+NameA: 
+it->timeDidentify: 1476177531584
+it->timeDidentify: 1476177542431
+it->timeDidentify: 1476177544657
+it->timeDidentify: 1476177549344
+it->timeDidentify: 1476177552855
+it->timeDidentify: 1476177556887
+it->timeDidentify: 1476177558551
+it->timeDidentify: 1476177560739
+Display time: 0.125163
+m_isplay: 1
+time: 0.125163
+Alltime: 3.44
+Display(a): 0
+m_currentDuration: 3
+Display time: 0
+Display time: 1.03461
+m_isplay: 1
+time: 1.03461
+Alltime: 3.44
+Display(a): 2
+m_currentDuration: 3
+Display time: 2
+Display time: 2.03802
+m_isplay: 1
+time: 2.03802
+Alltime: 3
+Display(a): 4
+m_currentDuration: 3
+Display time: 4
+Display time: 3.03841
+m_isplay: 1
+time: 3.03841
+Alltime: 3
+Display(a): 6
+m_currentDuration: 3
+Display time: 6
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1476177531584
+m_mapData[2]->timeDidentify:0
+m_mapData[3]->timeDidentify:0
+m_mapData[4]->timeDidentify:1476177531584
+m_mapData[5]->timeDidentify:1476177542431
+m_mapData[6]->timeDidentify:1476177544657
+m_mapData[7]->timeDidentify:1476177549344
+m_mapData[8]->timeDidentify:1476177552855
+m_mapData[9]->timeDidentify:1476177556887
+m_mapData[10]->timeDidentify:1476177558551
+inx: 9
+it->timeDidentify: 0
+it->timeDidentify: 1476177531584
+it->timeDidentify: 1476177542431
+it->timeDidentify: 1476177544657
+it->timeDidentify: 1476177549344
+it->timeDidentify: 1476177552855
+Got1  data.timeDidentify:1476177556887
+NameA: 
+it->timeDidentify: 1476177556887
+it->timeDidentify: 1476177558551
+it->timeDidentify: 1476177560739
+Display time: 0.245718
+m_isplay: 1
+time: 0.245718
+Alltime: 0.92
+Display(a): 0
+m_currentDuration: 0
+Display time: 0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1476177531584
+m_mapData[2]->timeDidentify:0
+m_mapData[3]->timeDidentify:0
+m_mapData[4]->timeDidentify:1476177531584
+m_mapData[5]->timeDidentify:1476177542431
+m_mapData[6]->timeDidentify:1476177544657
+m_mapData[7]->timeDidentify:1476177549344
+m_mapData[8]->timeDidentify:1476177552855
+m_mapData[9]->timeDidentify:1476177556887
+m_mapData[10]->timeDidentify:1476177558551
+inx: 10
+it->timeDidentify: 0
+it->timeDidentify: 1476177531584
+it->timeDidentify: 1476177542431
+it->timeDidentify: 1476177544657
+it->timeDidentify: 1476177549344
+it->timeDidentify: 1476177552855
+it->timeDidentify: 1476177556887
+Got1  data.timeDidentify:1476177558551
+NameA: 
+it->timeDidentify: 1476177558551
+it->timeDidentify: 1476177560739
+Display time: 0.328989
+m_isplay: 1
+time: 0.328989
+Alltime: 1.08
+Display(a): 0
+m_currentDuration: 1
+Display time: 0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1476177531584
+m_mapData[2]->timeDidentify:0
+m_mapData[3]->timeDidentify:0
+m_mapData[4]->timeDidentify:1476177531584
+m_mapData[5]->timeDidentify:1476177542431
+m_mapData[6]->timeDidentify:1476177544657
+m_mapData[7]->timeDidentify:1476177549344
+m_mapData[8]->timeDidentify:1476177552855
+m_mapData[9]->timeDidentify:1476177556887
+m_mapData[10]->timeDidentify:1476177558551
+inx: 9
+it->timeDidentify: 0
+it->timeDidentify: 1476177531584
+it->timeDidentify: 1476177542431
+it->timeDidentify: 1476177544657
+it->timeDidentify: 1476177549344
+it->timeDidentify: 1476177552855
+Got1  data.timeDidentify:1476177556887
+NameA: 
+it->timeDidentify: 1476177556887
+it->timeDidentify: 1476177558551
+it->timeDidentify: 1476177560739
+Display time: 0.199926
+m_isplay: 1
+time: 0.199926
+Alltime: 0
+Display(a): 0
+m_currentDuration: 0
+Display time: 0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1476177531584
+m_mapData[2]->timeDidentify:0
+m_mapData[3]->timeDidentify:0
+m_mapData[4]->timeDidentify:1476177531584
+m_mapData[5]->timeDidentify:1476177542431
+m_mapData[6]->timeDidentify:1476177544657
+m_mapData[7]->timeDidentify:1476177549344
+m_mapData[8]->timeDidentify:1476177552855
+m_mapData[9]->timeDidentify:1476177556887
+m_mapData[10]->timeDidentify:1476177558551
+inx: 7
+it->timeDidentify: 0
+it->timeDidentify: 1476177531584
+it->timeDidentify: 1476177542431
+it->timeDidentify: 1476177544657
+Got1  data.timeDidentify:1476177549344
+NameA: 
+it->timeDidentify: 1476177549344
+it->timeDidentify: 1476177552855
+it->timeDidentify: 1476177556887
+it->timeDidentify: 1476177558551
+it->timeDidentify: 1476177560739
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1476177531584
+m_mapData[2]->timeDidentify:0
+m_mapData[3]->timeDidentify:0
+m_mapData[4]->timeDidentify:1476177531584
+m_mapData[5]->timeDidentify:1476177542431
+m_mapData[6]->timeDidentify:1476177544657
+m_mapData[7]->timeDidentify:1476177549344
+m_mapData[8]->timeDidentify:1476177552855
+m_mapData[9]->timeDidentify:1476177556887
+m_mapData[10]->timeDidentify:1476177558551
+inx: 10
+it->timeDidentify: 0
+it->timeDidentify: 1476177531584
+it->timeDidentify: 1476177542431
+it->timeDidentify: 1476177544657
+it->timeDidentify: 1476177549344
+it->timeDidentify: 1476177552855
+it->timeDidentify: 1476177556887
+Got1  data.timeDidentify:1476177558551
+NameA: 
+it->timeDidentify: 1476177558551
+it->timeDidentify: 1476177560739
+Display time: 0.11192
+m_isplay: 1
+time: 0.11192
+Alltime: 1.08
+Display(a): 0
+m_currentDuration: 1
+Display time: 0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1476177531584
+m_mapData[2]->timeDidentify:0
+m_mapData[3]->timeDidentify:0
+m_mapData[4]->timeDidentify:1476177531584
+m_mapData[5]->timeDidentify:1476177542431
+m_mapData[6]->timeDidentify:1476177544657
+m_mapData[7]->timeDidentify:1476177549344
+m_mapData[8]->timeDidentify:1476177552855
+m_mapData[9]->timeDidentify:1476177556887
+m_mapData[10]->timeDidentify:1476177558551
+inx: 3
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476177531584
+it->timeDidentify: 1476177542431
+it->timeDidentify: 1476177544657
+it->timeDidentify: 1476177549344
+it->timeDidentify: 1476177552855
+it->timeDidentify: 1476177556887
+it->timeDidentify: 1476177558551
+it->timeDidentify: 1476177560739
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1476177544657
+m_mapData[2]->timeDidentify:0
+m_mapData[3]->timeDidentify:0
+m_mapData[4]->timeDidentify:1476177531584
+m_mapData[5]->timeDidentify:1476177542431
+m_mapData[6]->timeDidentify:1476177544657
+m_mapData[7]->timeDidentify:1476177549344
+m_mapData[8]->timeDidentify:1476177552855
+m_mapData[9]->timeDidentify:1476177556887
+m_mapData[10]->timeDidentify:1476177558551
+inx: 1
+it->timeDidentify: 0
+it->timeDidentify: 1476177531584
+it->timeDidentify: 1476177542431
+Got2  data.timeDidentify:1476177544657
+NameB: 
+it->timeDidentify: 1476177544657
+it->timeDidentify: 1476177549344
+it->timeDidentify: 1476177552855
+it->timeDidentify: 1476177556887
+it->timeDidentify: 1476177558551
+it->timeDidentify: 1476177560739
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476178341320
+m_mapData[3]->timeDidentify:1476178408960
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476178341320
+it->timeDidentify: 1476178408960
+it->timeDidentify: 1476178423478
+Display time: 0.725339
+m_isplay: 1
+time: 0.725339
+Alltime: 79.2
+Display(a): 0
+m_currentDuration: 79
+Display time: 0
+Display time: 1.73198
+m_isplay: 1
+time: 1.73198
+Alltime: 79
+Display(a): 2
+m_currentDuration: 79
+Display time: 2
+Display time: 17.1012
+m_isplay: 1
+time: 17.1012
+Alltime: 79
+Display(a): 34
+m_currentDuration: 79
+Display time: 34
+Display time: 17.1012
+m_isplay: 1
+time: 17.1012
+Alltime: 79
+Display(a): 34
+m_currentDuration: 79
+Display time: 34
+Display time: 17.1012
+m_isplay: 1
+time: 17.1012
+Alltime: 79
+Display(a): 34
+m_currentDuration: 79
+Display time: 34
+Display time: 17.1012
+m_isplay: 1
+time: 17.1012
+Alltime: 79
+Display(a): 34
+m_currentDuration: 79
+Display time: 34
+Display time: 17.1012
+m_isplay: 1
+time: 17.1012
+Alltime: 79
+Display(a): 34
+m_currentDuration: 79
+Display time: 34
+Display time: 17.1012
+m_isplay: 1
+time: 17.1012
+Alltime: 79
+Display(a): 34
+m_currentDuration: 79
+Display time: 34
+Display time: 17.1012
+m_isplay: 1
+time: 17.1012
+Alltime: 79
+Display(a): 34
+m_currentDuration: 79
+Display time: 34
+Display time: 17.1012
+m_isplay: 1
+time: 17.1012
+Alltime: 79
+Display(a): 34
+m_currentDuration: 79
+Display time: 34
+Display time: 17.1012
+m_isplay: 1
+time: 17.1012
+Alltime: 79
+Display(a): 34
+m_currentDuration: 79
+Display time: 34
+Display time: 9.86526
+m_isplay: 1
+time: 9.86526
+Alltime: 79
+Display(a): 18
+m_currentDuration: 79
+Display time: 18
+Display time: 10.8659
+m_isplay: 1
+time: 10.8659
+Alltime: 79
+Display(a): 20
+m_currentDuration: 79
+Display time: 20
+Display time: 11.8656
+m_isplay: 1
+time: 11.8656
+Alltime: 79
+Display(a): 22
+m_currentDuration: 79
+Display time: 22
+Display time: 12.8661
+m_isplay: 1
+time: 12.8661
+Alltime: 79
+Display(a): 24
+m_currentDuration: 79
+Display time: 24
+Display time: 13.8667
+m_isplay: 1
+time: 13.8667
+Alltime: 79
+Display(a): 26
+m_currentDuration: 79
+Display time: 26
+Display time: 14.8659
+m_isplay: 1
+time: 14.8659
+Alltime: 79
+Display(a): 28
+m_currentDuration: 79
+Display time: 28
+Display time: 15.8642
+m_isplay: 1
+time: 15.8642
+Alltime: 79
+Display(a): 30
+m_currentDuration: 79
+Display time: 30
+Display time: 16.8653
+m_isplay: 1
+time: 16.8653
+Alltime: 79
+Display(a): 32
+m_currentDuration: 79
+Display time: 32
+Display time: 17.8727
+m_isplay: 1
+time: 17.8727
+Alltime: 79
+Display(a): 34
+m_currentDuration: 79
+Display time: 34
+Display time: 18.8678
+m_isplay: 1
+time: 18.8678
+Alltime: 79
+Display(a): 36
+m_currentDuration: 79
+Display time: 36
+Display time: 19.8657
+m_isplay: 1
+time: 19.8657
+Alltime: 79
+Display(a): 38
+m_currentDuration: 79
+Display time: 38
+Display time: 20.8688
+m_isplay: 1
+time: 20.8688
+Alltime: 79
+Display(a): 40
+m_currentDuration: 79
+Display time: 40
+Display time: 21.8654
+m_isplay: 1
+time: 21.8654
+Alltime: 79
+Display(a): 42
+m_currentDuration: 79
+Display time: 42
+Display time: 22.8685
+m_isplay: 1
+time: 22.8685
+Alltime: 79
+Display(a): 44
+m_currentDuration: 79
+Display time: 44
+Display time: 23.8682
+m_isplay: 1
+time: 23.8682
+Alltime: 79
+Display(a): 46
+m_currentDuration: 79
+Display time: 46
+Display time: 24.8688
+m_isplay: 1
+time: 24.8688
+Alltime: 79
+Display(a): 48
+m_currentDuration: 79
+Display time: 48
+Display time: 25.8651
+m_isplay: 1
+time: 25.8651
+Alltime: 79
+Display(a): 50
+m_currentDuration: 79
+Display time: 50
+Display time: 26.8678
+m_isplay: 1
+time: 26.8678
+Alltime: 79
+Display(a): 52
+m_currentDuration: 79
+Display time: 52
+Display time: 27.8653
+m_isplay: 1
+time: 27.8653
+Alltime: 79
+Display(a): 54
+m_currentDuration: 79
+Display time: 54
+Display time: 28.8639
+m_isplay: 1
+time: 28.8639
+Alltime: 79
+Display(a): 56
+m_currentDuration: 79
+Display time: 56
+Display time: 29.8649
+m_isplay: 1
+time: 29.8649
+Alltime: 79
+Display(a): 58
+m_currentDuration: 79
+Display time: 58
+Display time: 30.8645
+m_isplay: 1
+time: 30.8645
+Alltime: 79
+Display(a): 60
+m_currentDuration: 79
+Display time: 60
+Display time: 31.8695
+m_isplay: 1
+time: 31.8695
+Alltime: 79
+Display(a): 62
+m_currentDuration: 79
+Display time: 62
+Display time: 32.8658
+m_isplay: 1
+time: 32.8658
+Alltime: 79
+Display(a): 64
+m_currentDuration: 79
+Display time: 64
+Display time: 33.8711
+m_isplay: 1
+time: 33.8711
+Alltime: 79
+Display(a): 66
+m_currentDuration: 79
+Display time: 66
+Display time: 34.8683
+m_isplay: 1
+time: 34.8683
+Alltime: 79
+Display(a): 68
+m_currentDuration: 79
+Display time: 68
+Display time: 35.8655
+m_isplay: 1
+time: 35.8655
+Alltime: 79
+Display(a): 70
+m_currentDuration: 79
+Display time: 70
+Display time: 36.868
+m_isplay: 1
+time: 36.868
+Alltime: 79
+Display(a): 72
+m_currentDuration: 79
+Display time: 72
+Display time: 37.8705
+m_isplay: 1
+time: 37.8705
+Alltime: 79
+Display(a): 74
+m_currentDuration: 79
+Display time: 74
+Display time: 38.8691
+m_isplay: 1
+time: 38.8691
+Alltime: 79
+Display(a): 76
+m_currentDuration: 79
+Display time: 76
+Display time: 39.869
+m_isplay: 1
+time: 39.869
+Alltime: 79
+Display(a): 78
+m_currentDuration: 79
+Display time: 78
+Display time: 40.8636
+m_isplay: 1
+time: 40.8636
+Alltime: 79
+Display(a): 80
+m_currentDuration: 79
+Display time: 80
+Display time: 41.8656
+m_isplay: 1
+time: 41.8656
+Alltime: 79
+Display(a): 82
+m_currentDuration: 79
+Display time: 82
+Display time: 42.8703
+m_isplay: 1
+time: 42.8703
+Alltime: 79
+Display(a): 84
+m_currentDuration: 79
+Display time: 84
+Display time: 43.865
+m_isplay: 1
+time: 43.865
+Alltime: 79
+Display(a): 86
+m_currentDuration: 79
+Display time: 86
+Display time: 44.8709
+m_isplay: 1
+time: 44.8709
+Alltime: 79
+Display(a): 88
+m_currentDuration: 79
+Display time: 88
+Display time: 45.8695
+m_isplay: 1
+time: 45.8695
+Alltime: 79
+Display(a): 90
+m_currentDuration: 79
+Display time: 90
+Display time: 46.8637
+m_isplay: 1
+time: 46.8637
+Alltime: 79
+Display(a): 92
+m_currentDuration: 79
+Display time: 92
+Display time: 47.8654
+m_isplay: 1
+time: 47.8654
+Alltime: 79
+Display(a): 94
+m_currentDuration: 79
+Display time: 94
+Display time: 48.8646
+m_isplay: 1
+time: 48.8646
+Alltime: 79
+Display(a): 96
+m_currentDuration: 79
+Display time: 96
+Display time: 49.8651
+m_isplay: 1
+time: 49.8651
+Alltime: 79
+Display(a): 98
+m_currentDuration: 79
+Display time: 98
+Display time: 50.8684
+m_isplay: 1
+time: 50.8684
+Alltime: 79
+Display(a): 100
+m_currentDuration: 79
+Display time: 100
+Display time: 51.8685
+m_isplay: 1
+time: 51.8685
+Alltime: 79
+Display(a): 102
+m_currentDuration: 79
+Display time: 102
+Display time: 52.8664
+m_isplay: 1
+time: 52.8664
+Alltime: 79
+Display(a): 104
+m_currentDuration: 79
+Display time: 104
+Display time: 53.8697
+m_isplay: 1
+time: 53.8697
+Alltime: 79
+Display(a): 106
+m_currentDuration: 79
+Display time: 106
+Display time: 54.8635
+m_isplay: 1
+time: 54.8635
+Alltime: 79
+Display(a): 108
+m_currentDuration: 79
+Display time: 108
+Display time: 55.8671
+m_isplay: 1
+time: 55.8671
+Alltime: 79
+Display(a): 110
+m_currentDuration: 79
+Display time: 110
+Display time: 56.8654
+m_isplay: 1
+time: 56.8654
+Alltime: 79
+Display(a): 112
+m_currentDuration: 79
+Display time: 112
+Display time: 57.8677
+m_isplay: 1
+time: 57.8677
+Alltime: 79
+Display(a): 114
+m_currentDuration: 79
+Display time: 114
+Display time: 58.8661
+m_isplay: 1
+time: 58.8661
+Alltime: 79
+Display(a): 116
+m_currentDuration: 79
+Display time: 116
+Display time: 59.8684
+m_isplay: 1
+time: 59.8684
+Alltime: 79
+Display(a): 118
+m_currentDuration: 79
+Display time: 118
+Display time: 60.8681
+m_isplay: 1
+time: 60.8681
+Alltime: 79
+Display(a): 120
+m_currentDuration: 79
+Display time: 120
+Display time: 61.8641
+m_isplay: 1
+time: 61.8641
+Alltime: 79
+Display(a): 122
+m_currentDuration: 79
+Display time: 122
+Display time: 62.8688
+m_isplay: 1
+time: 62.8688
+Alltime: 79
+Display(a): 124
+m_currentDuration: 79
+Display time: 124
+Display time: 63.8654
+m_isplay: 1
+time: 63.8654
+Alltime: 79
+Display(a): 126
+m_currentDuration: 79
+Display time: 126
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476178341320
+m_mapData[3]->timeDidentify:1476178408960
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1476178341320
+NameA: 
+it->timeDidentify: 1476178341320
+it->timeDidentify: 1476178408960
+it->timeDidentify: 1476178423478
+Display time: 0.791817
+m_isplay: 1
+time: 0.791817
+Alltime: 62.36
+Display(a): 0
+m_currentDuration: 62
+Display time: 0
+Display time: 6.35033
+m_isplay: 1
+time: 6.35033
+Alltime: 62
+Display(a): 12
+m_currentDuration: 62
+Display time: 12
+Display time: 6.35033
+m_isplay: 1
+time: 6.35033
+Alltime: 62
+Display(a): 12
+m_currentDuration: 62
+Display time: 12
+Display time: 6.35033
+m_isplay: 1
+time: 6.35033
+Alltime: 62
+Display(a): 12
+m_currentDuration: 62
+Display time: 12
+Display time: 6.35033
+m_isplay: 1
+time: 6.35033
+Alltime: 62
+Display(a): 12
+m_currentDuration: 62
+Display time: 12
+Display time: 6.35033
+m_isplay: 1
+time: 6.35033
+Alltime: 62
+Display(a): 12
+m_currentDuration: 62
+Display time: 12
+Display time: 6.35033
+m_isplay: 1
+time: 6.35033
+Alltime: 62
+Display(a): 12
+m_currentDuration: 62
+Display time: 12
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476178993295
+Display time: 0.620267
+m_isplay: 1
+time: 0.620267
+Alltime: 55.36
+Display(a): 0
+m_currentDuration: 55
+Display time: 0
+Display time: 1.62265
+m_isplay: 1
+time: 1.62265
+Alltime: 55
+Display(a): 2
+m_currentDuration: 55
+Display time: 2
+Display time: 10.6525
+m_isplay: 1
+time: 10.6525
+Alltime: 55
+Display(a): 20
+m_currentDuration: 55
+Display time: 20
+Display time: 10.6525
+m_isplay: 1
+time: 10.6525
+Alltime: 55
+Display(a): 20
+m_currentDuration: 55
+Display time: 20
+Display time: 10.6525
+m_isplay: 1
+time: 10.6525
+Alltime: 55
+Display(a): 20
+m_currentDuration: 55
+Display time: 20
+Display time: 10.6525
+m_isplay: 1
+time: 10.6525
+Alltime: 55
+Display(a): 20
+m_currentDuration: 55
+Display time: 20
+Display time: 10.6525
+m_isplay: 1
+time: 10.6525
+Alltime: 55
+Display(a): 20
+m_currentDuration: 55
+Display time: 20
+Display time: 10.6525
+m_isplay: 1
+time: 10.6525
+Alltime: 55
+Display(a): 20
+m_currentDuration: 55
+Display time: 20
+Display time: 10.6525
+m_isplay: 1
+time: 10.6525
+Alltime: 55
+Display(a): 20
+m_currentDuration: 55
+Display time: 20
+Display time: 10.6525
+m_isplay: 1
+time: 10.6525
+Alltime: 55
+Display(a): 20
+m_currentDuration: 55
+Display time: 20
+Display time: 10.6525
+m_isplay: 1
+time: 10.6525
+Alltime: 55
+Display(a): 20
+m_currentDuration: 55
+Display time: 20
+Display time: 10.6966
+m_isplay: 1
+time: 10.6966
+Alltime: 55
+Display(a): 20
+m_currentDuration: 55
+Display time: 20
+Display time: 11.6953
+m_isplay: 1
+time: 11.6953
+Alltime: 55
+Display(a): 22
+m_currentDuration: 55
+Display time: 22
+Display time: 12.6949
+m_isplay: 1
+time: 12.6949
+Alltime: 55
+Display(a): 24
+m_currentDuration: 55
+Display time: 24
+Display time: 13.7001
+m_isplay: 1
+time: 13.7001
+Alltime: 55
+Display(a): 26
+m_currentDuration: 55
+Display time: 26
+Display time: 14.6954
+m_isplay: 1
+time: 14.6954
+Alltime: 55
+Display(a): 28
+m_currentDuration: 55
+Display time: 28
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476182003772
+m_mapData[3]->timeDidentify:1476182061196
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476182003772
+it->timeDidentify: 1476182061196
+it->timeDidentify: 1476182070678
+Display time: 0.736632
+m_isplay: 1
+time: 0.736632
+Alltime: 39
+Display(a): 0
+m_currentDuration: 39
+Display time: 0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476182765836
+m_mapData[3]->timeDidentify:1476182824507
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476182765836
+it->timeDidentify: 1476182824507
+it->timeDidentify: 1476182834640
+Display time: 0.797436
+m_isplay: 1
+time: 0.797436
+Alltime: 39.64
+Display(a): 0
+m_currentDuration: 39
+Display time: 0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476183310367
+m_mapData[3]->timeDidentify:1476183369649
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476183310367
+it->timeDidentify: 1476183369649
+it->timeDidentify: 1476183379128
+Display time: 0.257712
+m_isplay: 1
+time: 0.257712
+Alltime: 38.8
+Display(a): 0
+m_currentDuration: 38
+Display time: 0
+time: 0
+data.time:59
+data.p1_得分:1
+data.p2_得分:1
+data.p1_速度:0
+data.p2_速度:129
+data.发球人:2
+data.发球状态:0
+data.动作:3
+Display time: 35.1769
+m_isplay: 1
+time: 35.1769
+Alltime: 38.8
+Display(a): 70
+m_currentDuration: 38
+Display time: 70
+Display time: 35.1769
+m_isplay: 1
+time: 35.1769
+Alltime: 38
+Display(a): 70
+m_currentDuration: 38
+Display time: 70
+Display time: 35.1769
+m_isplay: 1
+time: 35.1769
+Alltime: 38
+Display(a): 70
+m_currentDuration: 38
+Display time: 70
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476183310367
+m_mapData[3]->timeDidentify:1476183369649
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1476183310367
+NameA: 
+it->timeDidentify: 1476183310367
+it->timeDidentify: 1476183369649
+it->timeDidentify: 1476183379128
+Display time: 0.287729
+m_isplay: 1
+time: 0.287729
+Alltime: 56.96
+Display(a): 0
+m_currentDuration: 56
+Display time: 0
+time: 0
+data.time:9
+data.p1_得分:1
+data.p2_得分:2
+data.p1_速度:0
+data.p2_速度:111
+data.发球人:2
+data.发球状态:1
+data.动作:3
+Display time: 8.76726
+m_isplay: 1
+time: 8.76726
+Alltime: 56.96
+Display(a): 16
+m_currentDuration: 56
+Display time: 16
+Display time: 8.76726
+m_isplay: 1
+time: 8.76726
+Alltime: 56
+Display(a): 16
+m_currentDuration: 56
+Display time: 16
+Display time: 8.76726
+m_isplay: 1
+time: 8.76726
+Alltime: 56
+Display(a): 16
+m_currentDuration: 56
+Display time: 16
+Display time: 8.76726
+m_isplay: 1
+time: 8.76726
+Alltime: 56
+Display(a): 16
+m_currentDuration: 56
+Display time: 16
+Display time: 8.76726
+m_isplay: 1
+time: 8.76726
+Alltime: 56
+Display(a): 16
+m_currentDuration: 56
+Display time: 16
+Display time: 8.76726
+m_isplay: 1
+time: 8.76726
+Alltime: 56
+Display(a): 16
+m_currentDuration: 56
+Display time: 16
+Display time: 8.76726
+m_isplay: 1
+time: 8.76726
+Alltime: 56
+Display(a): 16
+m_currentDuration: 56
+Display time: 16
+Display time: 8.76726
+m_isplay: 1
+time: 8.76726
+Alltime: 56
+Display(a): 16
+m_currentDuration: 56
+Display time: 16
+Display time: 8.76726
+m_isplay: 1
+time: 8.76726
+Alltime: 56
+Display(a): 16
+m_currentDuration: 56
+Display time: 16
+Display time: 8.91937
+m_isplay: 1
+time: 8.91937
+Alltime: 56
+Display(a): 16
+m_currentDuration: 56
+Display time: 16
+Display time: 9.91628
+m_isplay: 1
+time: 9.91628
+Alltime: 56
+Display(a): 18
+m_currentDuration: 56
+Display time: 18
+Display time: 10.9124
+m_isplay: 1
+time: 10.9124
+Alltime: 56
+Display(a): 20
+m_currentDuration: 56
+Display time: 20
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476183310367
+m_mapData[3]->timeDidentify:1476183369649
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1476183310367
+Got1  data.timeDidentify:1476183369649
+NameA: 
+it->timeDidentify: 1476183369649
+it->timeDidentify: 1476183379128
+Display time: 0.0981521
+m_isplay: 1
+time: 0.0981521
+Alltime: 8.12
+Display(a): 0
+m_currentDuration: 8
+Display time: 0
+time: 0
+data.time:9
+data.p1_得分:1
+data.p2_得分:2
+data.p1_速度:0
+data.p2_速度:111
+data.发球人:2
+data.发球状态:1
+data.动作:3
+Display time: 0.978556
+m_isplay: 1
+time: 0.978556
+Alltime: 8.12
+Display(a): 0
+m_currentDuration: 8
+Display time: 0
+time: 0
+data.time:9
+data.p1_得分:1
+data.p2_得分:2
+data.p1_速度:0
+data.p2_速度:111
+data.发球人:2
+data.发球状态:1
+data.动作:3
+Display time: 1.97939
+m_isplay: 1
+time: 1.97939
+Alltime: 8
+Display(a): 2
+m_currentDuration: 8
+Display time: 2
+time: 2
+data.time:9
+data.p1_得分:1
+data.p2_得分:2
+data.p1_速度:0
+data.p2_速度:111
+data.发球人:2
+data.发球状态:1
+data.动作:3
+Display time: 2.97388
+m_isplay: 1
+time: 2.97388
+Alltime: 8
+Display(a): 4
+m_currentDuration: 8
+Display time: 4
+Display time: 3.97614
+m_isplay: 1
+time: 3.97614
+Alltime: 8
+Display(a): 6
+m_currentDuration: 8
+Display time: 6
+Display time: 4.97371
+m_isplay: 1
+time: 4.97371
+Alltime: 8
+Display(a): 8
+m_currentDuration: 8
+Display time: 8
+Display time: 5.97764
+m_isplay: 1
+time: 5.97764
+Alltime: 8
+Display(a): 10
+m_currentDuration: 8
+Display time: 10
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476184049974
+m_mapData[3]->timeDidentify:1476184107636
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476184049974
+it->timeDidentify: 1476184107636
+it->timeDidentify: 1476184117489
+Display time: 0.289155
+m_isplay: 1
+time: 0.289155
+Alltime: 39.36
+Display(a): 0
+m_currentDuration: 39
+Display time: 0
+time: 0
+data.time:38
+data.p1_得分:1
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:135
+data.发球人:2
+data.发球状态:2
+data.动作:3
+Display time: 20.3913
+m_isplay: 1
+time: 20.3913
+Alltime: 39.36
+Display(a): 40
+m_currentDuration: 39
+Display time: 40
+Display time: 20.3913
+m_isplay: 1
+time: 20.3913
+Alltime: 39
+Display(a): 40
+m_currentDuration: 39
+Display time: 40
+Display time: 20.3913
+m_isplay: 1
+time: 20.3913
+Alltime: 39
+Display(a): 40
+m_currentDuration: 39
+Display time: 40
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476184049974
+m_mapData[3]->timeDidentify:1476184107636
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1476184049974
+NameA: 
+it->timeDidentify: 1476184049974
+it->timeDidentify: 1476184107636
+it->timeDidentify: 1476184117489
+Display time: 0.0708743
+m_isplay: 1
+time: 0.0708743
+Alltime: 54
+Display(a): 0
+m_currentDuration: 54
+Display time: 0
+time: 0
+data.time:57
+data.p1_得分:1
+data.p2_得分:1
+data.p1_速度:0
+data.p2_速度:129
+data.发球人:2
+data.发球状态:0
+data.动作:3
+Display time: 6.13162
+m_isplay: 1
+time: 6.13162
+Alltime: 54
+Display(a): 12
+m_currentDuration: 54
+Display time: 12
+Display time: 6.13162
+m_isplay: 1
+time: 6.13162
+Alltime: 54
+Display(a): 12
+m_currentDuration: 54
+Display time: 12
+Display time: 6.13162
+m_isplay: 1
+time: 6.13162
+Alltime: 54
+Display(a): 12
+m_currentDuration: 54
+Display time: 12
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476184049974
+m_mapData[3]->timeDidentify:1476184107636
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1476184049974
+Got1  data.timeDidentify:1476184107636
+NameA: 
+it->timeDidentify: 1476184107636
+it->timeDidentify: 1476184117489
+Display time: 0.312413
+m_isplay: 1
+time: 0.312413
+Alltime: 8.4
+Display(a): 0
+m_currentDuration: 8
+Display time: 0
+time: 0
+data.time:9
+data.p1_得分:1
+data.p2_得分:2
+data.p1_速度:0
+data.p2_速度:111
+data.发球人:2
+data.发球状态:1
+data.动作:3
+Display time: 11.7466
+m_isplay: 1
+time: 11.7466
+Alltime: 8.4
+Display(a): 22
+m_currentDuration: 8
+Display time: 22

@@ -1,0 +1,822 @@
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:1010
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-711690409  m_is新回合: 1
+on发球 t:-711422556  m_is新回合: 0
+Rec加分 m_本回合开始时间:-711690409  m_current_time - m_start_time: -711420071
+set视频数据 timeStamp:1475898336293
+set视频数据 本回合开始时间:-711690409 本回合结束时间：-711420071
+set视频数据 timeStamp:1475898337303
+set视频数据 本回合开始时间:-711690409 本回合结束时间：-711420071
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:1010
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:1010
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:1010
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-702735513  m_is新回合: 1
+on发球 t:-702710098  m_is新回合: 0
+Rec加分 m_本回合开始时间:-702735513  m_current_time - m_start_time: -702707489
+set视频数据 timeStamp:1475907048875
+set视频数据 本回合开始时间:-702735513 本回合结束时间：-702707489
+set视频数据 timeStamp:1475907049885
+set视频数据 本回合开始时间:-702735513 本回合结束时间：-702707489
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:1010
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-702680051  m_is新回合: 1
+on发球 t:-702671630  m_is新回合: 0
+Rec加分 m_本回合开始时间:-702680051  m_current_time - m_start_time: -702668710
+set视频数据 timeStamp:1475907087654
+set视频数据 本回合开始时间:-702680051 本回合结束时间：-702668710
+set视频数据 timeStamp:1475907088664
+set视频数据 本回合开始时间:-702680051 本回合结束时间：-702668710
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:1010
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:1010
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-694831670  m_is新回合: 1
+on发球 t:-694775700  m_is新回合: 0
+Rec加分 m_本回合开始时间:-694831670  m_current_time - m_start_time: -694774111
+set视频数据 timeStamp:1475914982253
+set视频数据 本回合开始时间:-694831670 本回合结束时间：-694774111
+set视频数据 timeStamp:1475914983263
+set视频数据 本回合开始时间:-694831670 本回合结束时间：-694774111
+on发球 t:-694565562  m_is新回合: 1
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010841E50
+get视频数据FromStamp timeStamp:1475914982253 视频文件名称：00000000109984C0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010841E50
+get视频数据FromStamp timeStamp:1475914982253 视频文件名称：00000000109984C0
+get视频数据FromStamp timeStamp:1010 视频文件名称：0000000010840FF0
+get视频数据FromStamp timeStamp:1475914983263 视频文件名称：00000000109991E0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:1010
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-684064060  m_is新回合: 1
+on发球 t:-684031580  m_is新回合: 0
+Rec加分 m_本回合开始时间:-684064060  m_current_time - m_start_time: -684030057
+set视频数据 timeStamp:1475925726307
+set视频数据 本回合开始时间:-684064060 本回合结束时间：-684030057
+set视频数据 timeStamp:1475925727317
+set视频数据 本回合开始时间:-684064060 本回合结束时间：-684030057
+on发球 t:-683938701  m_is新回合: 1
+on发球 t:-683905919  m_is新回合: 0
+Rec加分 m_本回合开始时间:-683938701  m_current_time - m_start_time: -683903376
+set视频数据 timeStamp:1475925852988
+set视频数据 本回合开始时间:-683938701 本回合结束时间：-683903376
+set视频数据 timeStamp:1475925853998
+set视频数据 本回合开始时间:-683938701 本回合结束时间：-683903376
+on发球 t:-683813922  m_is新回合: 1
+Rec加分 m_本回合开始时间:-683813922  m_current_time - m_start_time: -683810526
+set视频数据 timeStamp:1475925945838
+set视频数据 本回合开始时间:-683813922 本回合结束时间：-683810526
+set视频数据 timeStamp:1475925946848
+set视频数据 本回合开始时间:-683813922 本回合结束时间：-683810526
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010695520
+get视频数据FromStamp timeStamp:1475925726307 视频文件名称：0000000015CE3130
+get视频数据FromStamp timeStamp:1475925852988 视频文件名称：0000000015CE2FF0
+get视频数据FromStamp timeStamp:1475925945838 视频文件名称：0000000015CE1F10
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010695520
+get视频数据FromStamp timeStamp:1475925726307 视频文件名称：0000000015CE3130
+get视频数据FromStamp timeStamp:1475925852988 视频文件名称：0000000015CE2FF0
+get视频数据FromStamp timeStamp:1475925945838 视频文件名称：0000000015CE1F10
+get视频数据FromStamp timeStamp:1010 视频文件名称：0000000010695E80
+get视频数据FromStamp timeStamp:1475925727317 视频文件名称：0000000015CE1470
+get视频数据FromStamp timeStamp:1475925853998 视频文件名称：0000000015CE2D70
+get视频数据FromStamp timeStamp:1475925946848 视频文件名称：0000000015CE1FB0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010695520
+get视频数据FromStamp timeStamp:1475925726307 视频文件名称：0000000015CE3130
+get视频数据FromStamp timeStamp:1475925852988 视频文件名称：0000000015CE2FF0
+get视频数据FromStamp timeStamp:1475925945838 视频文件名称：0000000015CE1F10
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-682205373  m_is新回合: 1
+on发球 t:-682173424  m_is新回合: 0
+Rec加分 m_本回合开始时间:-682205373  m_current_time - m_start_time: -682171876
+set视频数据 timeStamp:1475927584488
+set视频数据 本回合开始时间:-682205373 本回合结束时间：-682171876
+set视频数据 timeStamp:1475927584488
+set视频数据 本回合开始时间:-682205373 本回合结束时间：-682171876
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-670511885  m_is新回合: 1
+on发球 t:-670472593  m_is新回合: 0
+Rec加分 m_本回合开始时间:-670511885  m_current_time - m_start_time: -670470719
+set视频数据 timeStamp:1475939285645
+set视频数据 本回合开始时间:-670511885 本回合结束时间：-670470719
+set视频数据 timeStamp:1475939285645
+set视频数据 本回合开始时间:-670511885 本回合结束时间：-670470719
+set视频数据有无效 timeStamp:0 视频文件名称：0000000007D483D0
+set视频数据有无效 timeStamp:1475939285645 视频文件名称：00000000119BCD40
+set视频数据 timeStamp:1475939285745
+set视频数据 本回合开始时间:-670511885 本回合结束时间：-670470719
+set视频数据 timeStamp:1475939285745
+set视频数据 本回合开始时间:-670511885 本回合结束时间：-670470719
+on发球 t:-670351429  m_is新回合: 1
+on发球 t:-670311915  m_is新回合: 0
+Rec加分 m_本回合开始时间:-670351429  m_current_time - m_start_time: -670308934
+set视频数据 timeStamp:1475939447430
+set视频数据 本回合开始时间:-670351429 本回合结束时间：-670308934
+set视频数据 timeStamp:1475939447430
+set视频数据 本回合开始时间:-670351429 本回合结束时间：-670308934
+on发球 t:-670304456  m_is新回合: 1
+Rec加分 m_本回合开始时间:-670304456  m_current_time - m_start_time: -670299885
+set视频数据 timeStamp:1475939456479
+set视频数据 本回合开始时间:-670304456 本回合结束时间：-670299885
+set视频数据 timeStamp:1475939456479
+set视频数据 本回合开始时间:-670304456 本回合结束时间：-670299885
+set视频数据有无效 timeStamp:1475939447430 视频文件名称：00000000119BD060
+set视频数据有无效 timeStamp:1475939456479 视频文件名称：00000000119BCFC0
+set视频数据 timeStamp:1475939456579
+set视频数据 本回合开始时间:-670304456 本回合结束时间：-670299885
+set视频数据 timeStamp:1475939456579
+set视频数据 本回合开始时间:-670304456 本回合结束时间：-670299885
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000007D483D0
+get视频数据FromStamp timeStamp:1475939285645 视频文件名称：00000000119BCD40
+get视频数据FromStamp timeStamp:1475939447430 视频文件名称：00000000119BD060
+get视频数据FromStamp timeStamp:1475939456479 视频文件名称：00000000119BCFC0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000007D483D0
+get视频数据FromStamp timeStamp:1475939285645 视频文件名称：00000000119BCD40
+get视频数据FromStamp timeStamp:1475939447430 视频文件名称：00000000119BD060
+get视频数据FromStamp timeStamp:1475939456479 视频文件名称：00000000119BCFC0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000007D46D50
+get视频数据FromStamp timeStamp:1475939285645 视频文件名称：0000000007D47250
+get视频数据FromStamp timeStamp:1475939285745 视频文件名称：00000000116608B0
+get视频数据FromStamp timeStamp:1475939447430 视频文件名称：00000000119BC980
+get视频数据FromStamp timeStamp:1475939456479 视频文件名称：00000000119BD1A0
+get视频数据FromStamp timeStamp:1475939456579 视频文件名称：00000000166A10F0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000007D483D0
+get视频数据FromStamp timeStamp:1475939285645 视频文件名称：00000000119BCD40
+get视频数据FromStamp timeStamp:1475939447430 视频文件名称：00000000119BD060
+get视频数据FromStamp timeStamp:1475939456479 视频文件名称：00000000119BCFC0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-622902851  m_is新回合: 1
+on发球 t:-622867815  m_is新回合: 0
+Rec加分 m_本回合开始时间:-622902851  m_current_time - m_start_time: -622866277
+set视频数据 timeStamp:1475986890087
+set视频数据 本回合开始时间:-622902851 本回合结束时间：-622866277
+set视频数据 timeStamp:1475986890087
+set视频数据 本回合开始时间:-622902851 本回合结束时间：-622866277
+on发球 t:-622852075  m_is新回合: 1
+on发球 t:-622817202  m_is新回合: 0
+Rec加分 m_本回合开始时间:-622852075  m_current_time - m_start_time: -622814597
+set视频数据 timeStamp:1475986941767
+set视频数据 本回合开始时间:-622852075 本回合结束时间：-622814597
+set视频数据 timeStamp:1475986941767
+set视频数据 本回合开始时间:-622852075 本回合结束时间：-622814597
+on发球 t:-622810350  m_is新回合: 1
+Rec加分 m_本回合开始时间:-622810350  m_current_time - m_start_time: -622805684
+set视频数据 timeStamp:1475986950680
+set视频数据 本回合开始时间:-622810350 本回合结束时间：-622805684
+set视频数据 timeStamp:1475986950680
+set视频数据 本回合开始时间:-622810350 本回合结束时间：-622805684
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010C2E7D0
+get视频数据FromStamp timeStamp:1475986890087 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475986941767 视频文件名称：0000000010D85620
+get视频数据FromStamp timeStamp:1475986950680 视频文件名称：0000000010D86C00
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010C2E7D0
+get视频数据FromStamp timeStamp:1475986890087 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475986941767 视频文件名称：0000000010D85620
+get视频数据FromStamp timeStamp:1475986950680 视频文件名称：0000000010D86C00
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010C2F4F0
+get视频数据FromStamp timeStamp:1475986890087 视频文件名称：0000000010D86480
+get视频数据FromStamp timeStamp:1475986941767 视频文件名称：0000000010D856C0
+get视频数据FromStamp timeStamp:1475986950680 视频文件名称：0000000010D86D40
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010C2E7D0
+get视频数据FromStamp timeStamp:1475986890087 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475986941767 视频文件名称：0000000010D85620
+get视频数据FromStamp timeStamp:1475986950680 视频文件名称：0000000010D86C00
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:-622810350 本回合结束时间：-1481799144
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:-622810350 本回合结束时间：-1481799144
+on发球 t:-622748986  m_is新回合: 1
+on发球 t:-622715548  m_is新回合: 0
+Rec加分 m_本回合开始时间:-622748986  m_current_time - m_start_time: -622714076
+set视频数据 timeStamp:1475987042288
+set视频数据 本回合开始时间:-622748986 本回合结束时间：-622714076
+set视频数据 timeStamp:1475987042288
+set视频数据 本回合开始时间:-622748986 本回合结束时间：-622714076
+on发球 t:-622700532  m_is新回合: 1
+on发球 t:-622666624  m_is新回合: 0
+Rec加分 m_本回合开始时间:-622700532  m_current_time - m_start_time: -622663969
+set视频数据 timeStamp:1475987092395
+set视频数据 本回合开始时间:-622700532 本回合结束时间：-622663969
+set视频数据 timeStamp:1475987092395
+set视频数据 本回合开始时间:-622700532 本回合结束时间：-622663969
+on发球 t:-622659707  m_is新回合: 1
+Rec加分 m_本回合开始时间:-622659707  m_current_time - m_start_time: -622655154
+set视频数据 timeStamp:1475987101210
+set视频数据 本回合开始时间:-622659707 本回合结束时间：-622655154
+set视频数据 timeStamp:1475987101210
+set视频数据 本回合开始时间:-622659707 本回合结束时间：-622655154
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CF8A0
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CDFA0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D862A0
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CF8A0
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CDFA0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D862A0
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CDC80
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CE7C0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D86A20
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D86340
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CF8A0
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CDFA0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D862A0
+set视频数据有无效 timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+set视频数据有无效 timeStamp:1475987101210 视频文件名称：0000000010D862A0
+set视频数据有无效 timeStamp:1475987092395 视频文件名称：0000000010D86A20
+set视频数据有无效 timeStamp:1475987101210 视频文件名称：0000000010D86340
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CF8A0
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CDFA0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D862A0
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CF8A0
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CDFA0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D862A0
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CDC80
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CE7C0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D86A20
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D86340
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CF8A0
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CDFA0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D862A0
+set视频数据有无效 timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+set视频数据有无效 timeStamp:1475987101210 视频文件名称：0000000010D862A0
+set视频数据有无效 timeStamp:1475987092395 视频文件名称：0000000010D86A20
+set视频数据有无效 timeStamp:1475987101210 视频文件名称：0000000010D86340
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CF8A0
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CDFA0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D862A0
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CF8A0
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CDFA0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D862A0
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CDC80
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CE7C0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D86A20
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D86340
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000144CF8A0
+get视频数据FromStamp timeStamp:1475987042288 视频文件名称：00000000144CDFA0
+get视频数据FromStamp timeStamp:1475987092395 视频文件名称：0000000010D85DA0
+get视频数据FromStamp timeStamp:1475987101210 视频文件名称：0000000010D862A0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:-622659707 本回合结束时间：-1481633941
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:-622659707 本回合结束时间：-1481633941
+on发球 t:-622499527  m_is新回合: 1
+on发球 t:-622467206  m_is新回合: 0
+Rec加分 m_本回合开始时间:-622499527  m_current_time - m_start_time: -622465704
+set视频数据 timeStamp:1475987290660
+set视频数据 本回合开始时间:-622499527 本回合结束时间：-622465704
+set视频数据 timeStamp:1475987290660
+set视频数据 本回合开始时间:-622499527 本回合结束时间：-622465704
+on发球 t:-622451462  m_is新回合: 1
+on发球 t:-622417359  m_is新回合: 0
+Rec加分 m_本回合开始时间:-622451462  m_current_time - m_start_time: -622414817
+set视频数据 timeStamp:1475987341547
+set视频数据 本回合开始时间:-622451462 本回合结束时间：-622414817
+set视频数据 timeStamp:1475987341547
+set视频数据 本回合开始时间:-622451462 本回合结束时间：-622414817
+on发球 t:-622410593  m_is新回合: 1
+Rec加分 m_本回合开始时间:-622410593  m_current_time - m_start_time: -622406105
+set视频数据 timeStamp:1475987350259
+set视频数据 本回合开始时间:-622410593 本回合结束时间：-622406105
+set视频数据 timeStamp:1475987350259
+set视频数据 本回合开始时间:-622410593 本回合结束时间：-622406105
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000143EF440
+get视频数据FromStamp timeStamp:1475987290660 视频文件名称：0000000023CCA7A0
+get视频数据FromStamp timeStamp:1475987341547 视频文件名称：0000000023CC9E40
+get视频数据FromStamp timeStamp:1475987350259 视频文件名称：0000000023CCA020
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000143EF440
+get视频数据FromStamp timeStamp:1475987290660 视频文件名称：0000000023CCA7A0
+get视频数据FromStamp timeStamp:1475987341547 视频文件名称：0000000023CC9E40
+get视频数据FromStamp timeStamp:1475987350259 视频文件名称：0000000023CCA020
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000023CCAAC0
+get视频数据FromStamp timeStamp:1475987290660 视频文件名称：0000000023CC99E0
+get视频数据FromStamp timeStamp:1475987341547 视频文件名称：0000000023CCAF20
+get视频数据FromStamp timeStamp:1475987350259 视频文件名称：0000000023CCACA0
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000143EF440
+get视频数据FromStamp timeStamp:1475987290660 视频文件名称：0000000023CCA7A0
+get视频数据FromStamp timeStamp:1475987341547 视频文件名称：0000000023CC9E40
+get视频数据FromStamp timeStamp:1475987350259 视频文件名称：0000000023CCA020
+set视频数据有无效 timeStamp:1475987341547 视频文件名称：0000000023CC9E40
+set视频数据有无效 timeStamp:1475987350259 视频文件名称：0000000023CCA020
+set视频数据有无效 timeStamp:1475987341547 视频文件名称：0000000023CCAF20
+set视频数据有无效 timeStamp:1475987350259 视频文件名称：0000000023CCACA0
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000143EF440
+get视频数据FromStamp timeStamp:1475987290660 视频文件名称：0000000023CCA7A0
+get视频数据FromStamp timeStamp:1475987341547 视频文件名称：0000000023CC9E40
+get视频数据FromStamp timeStamp:1475987350259 视频文件名称：0000000023CCA020
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000143EF440
+get视频数据FromStamp timeStamp:1475987290660 视频文件名称：0000000023CCA7A0
+get视频数据FromStamp timeStamp:1475987341547 视频文件名称：0000000023CC9E40
+get视频数据FromStamp timeStamp:1475987350259 视频文件名称：0000000023CCA020
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000023CCAAC0
+get视频数据FromStamp timeStamp:1475987290660 视频文件名称：0000000023CC99E0
+get视频数据FromStamp timeStamp:1475987341547 视频文件名称：0000000023CCAF20
+get视频数据FromStamp timeStamp:1475987350259 视频文件名称：0000000023CCACA0
+set视频数据有无效 timeStamp:1475987341547 视频文件名称：0000000023CC9E40
+set视频数据有无效 timeStamp:1475987350259 视频文件名称：0000000023CCA020
+set视频数据有无效 timeStamp:1475987341547 视频文件名称：0000000023CCAF20
+set视频数据有无效 timeStamp:1475987350259 视频文件名称：0000000023CCACA0
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000143EF440
+get视频数据FromStamp timeStamp:1475987290660 视频文件名称：0000000023CCA7A0
+get视频数据FromStamp timeStamp:1475987341547 视频文件名称：0000000023CC9E40
+get视频数据FromStamp timeStamp:1475987350259 视频文件名称：0000000023CCA020
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000143EF440
+get视频数据FromStamp timeStamp:1475987290660 视频文件名称：0000000023CCA7A0
+get视频数据FromStamp timeStamp:1475987341547 视频文件名称：0000000023CC9E40
+get视频数据FromStamp timeStamp:1475987350259 视频文件名称：0000000023CCA020
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000023CCAAC0
+get视频数据FromStamp timeStamp:1475987290660 视频文件名称：0000000023CC99E0
+get视频数据FromStamp timeStamp:1475987341547 视频文件名称：0000000023CCAF20
+get视频数据FromStamp timeStamp:1475987350259 视频文件名称：0000000023CCACA0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:0  m_is新回合: 1
+on发球 t:3664  m_is新回合: 0
+Rec加分 m_本回合开始时间:0  m_current_time - m_start_time: 9061
+set视频数据 timeStamp:1476001430338
+set视频数据 本回合开始时间:0 本回合结束时间：9061
+set视频数据 timeStamp:1476001430338
+set视频数据 本回合开始时间:0 本回合结束时间：9061
+on发球 t:25039  m_is新回合: 1
+on发球 t:28619  m_is新回合: 0
+Rec加分 m_本回合开始时间:25039  m_current_time - m_start_time: 52420
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-601921095  m_is新回合: 1
+on发球 t:-601885019  m_is新回合: 0
+Rec加分 m_本回合开始时间:0  m_current_time - m_start_time: -601883393
+set视频数据 timeStamp:1476007872971
+set视频数据 本回合开始时间:-1460876853 本回合结束时间：-601883393
+set视频数据 timeStamp:1476007872971
+set视频数据 本回合开始时间:-1460876853 本回合结束时间：-601883393
+on发球 t:-601811925  m_is新回合: 1
+on发球 t:-601772669  m_is新回合: 0
+Rec加分 m_本回合开始时间:-1460876853  m_current_time - m_start_time: -601769799
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-600994659  m_is新回合: 1
+on发球 t:-600952421  m_is新回合: 0
+Rec加分 m_本回合开始时间:0  m_current_time - m_start_time: -600950640
+set视频数据 timeStamp:1476008805724
+set视频数据 本回合开始时间:-1459944100 本回合结束时间：-600950640
+set视频数据 timeStamp:1476008805724
+set视频数据 本回合开始时间:-1459944100 本回合结束时间：-600950640
+on发球 t:-600848217  m_is新回合: 1
+on发球 t:-600808841  m_is新回合: 0
+Rec加分 m_本回合开始时间:-1459944100  m_current_time - m_start_time: -600806018
+set视频数据 timeStamp:1476008950346
+set视频数据 本回合开始时间:-1459799478 本回合结束时间：-600806018
+set视频数据 timeStamp:1476008950346
+set视频数据 本回合开始时间:-1459799478 本回合结束时间：-600806018
+on发球 t:-600755228  m_is新回合: 1
+Rec加分 m_本回合开始时间:-1459799478  m_current_time - m_start_time: -600748833
+set视频数据 timeStamp:1476009007531
+set视频数据 本回合开始时间:-1459742293 本回合结束时间：-600748833
+set视频数据 timeStamp:1476009007531
+set视频数据 本回合开始时间:-1459742293 本回合结束时间：-600748833
+get视频数据FromStamp timeStamp:0 视频文件名称：000000001049A8B0
+get视频数据FromStamp timeStamp:1476008805724 视频文件名称：0000000010546BC0
+get视频数据FromStamp timeStamp:1476008950346 视频文件名称：0000000010547DE0
+get视频数据FromStamp timeStamp:1476009007531 视频文件名称：0000000010547480
+get视频数据FromStamp timeStamp:0 视频文件名称：000000001049A8B0
+get视频数据FromStamp timeStamp:1476008805724 视频文件名称：0000000010546BC0
+get视频数据FromStamp timeStamp:1476008950346 视频文件名称：0000000010547DE0
+get视频数据FromStamp timeStamp:1476009007531 视频文件名称：0000000010547480
+get视频数据FromStamp timeStamp:0 视频文件名称：000000001049A770
+get视频数据FromStamp timeStamp:1476008805724 视频文件名称：0000000010546D00
+get视频数据FromStamp timeStamp:1476008950346 视频文件名称：0000000010546760
+get视频数据FromStamp timeStamp:1476009007531 视频文件名称：0000000010548240
+on发球 t:-593455205  m_is新回合: 1
+set视频数据 timeStamp:1476016301159
+set视频数据 本回合开始时间:-1452448665 本回合结束时间：-593455205
+set视频数据 timeStamp:1476016301159
+set视频数据 本回合开始时间:-1452448665 本回合结束时间：-593455205
+on发球 t:-593401516  m_is新回合: 0
+set视频数据 timeStamp:1476016354848
+set视频数据 本回合开始时间:-1452394976 本回合结束时间：-593401516
+set视频数据 timeStamp:1476016354848
+set视频数据 本回合开始时间:-1452394976 本回合结束时间：-593401516
+Rec加分 m_本回合开始时间:1476016354848  m_current_time - m_start_time: -593386821
+on发球 t:-593358725  m_is新回合: 1
+set视频数据 timeStamp:1476016397639
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 timeStamp:0 视频文件名称：000000000A485ED8
+on发球 t:998  m_is新回合: 1
+on发球 t:97132  m_is新回合: 0
+Rec加分 m_本回合开始时间:1476090611607  m_current_time - m_start_time: 98581
+set视频数据 timeStamp:1476090709190
+set视频数据 本回合开始时间:-1378040634 本回合结束时间：98581
+set视频数据 timeStamp:1476090709190
+set视频数据 timeStamp:1476090709190 视频文件名称：000000000A37A162
+on发球 t:119222  m_is新回合: 1
+set视频数据 timeStamp:0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-514461513  m_is新回合: 1
+on发球 t:-514417835  m_is新回合: 0
+Rec加分 m_本回合开始时间:1476095294851  m_current_time - m_start_time: -514415899
+set视频数据 timeStamp:1476095340465
+set视频数据 本回合开始时间:-1373409359 本回合结束时间：-514415899
+set视频数据 timeStamp:1476095340465
+set视频数据 本回合开始时间:-1373409359 本回合结束时间：-514415899
+on发球 t:-514374154  m_is新回合: 1
+on发球 t:-514325902  m_is新回合: 0
+Rec加分 m_本回合开始时间:1476095340465  m_current_time - m_start_time: -514321928
+set视频数据 timeStamp:1476095434436
+set视频数据 本回合开始时间:-1373315388 本回合结束时间：-514321928
+set视频数据 timeStamp:1476095434436
+set视频数据 本回合开始时间:-1373315388 本回合结束时间：-514321928
+on发球 t:-514262289  m_is新回合: 1
+Rec加分 m_本回合开始时间:1476095434436  m_current_time - m_start_time: -514257215
+set视频数据 timeStamp:1476095499149
+set视频数据 本回合开始时间:-1373250675 本回合结束时间：-514257215
+set视频数据 timeStamp:1476095499149
+set视频数据 本回合开始时间:-1373250675 本回合结束时间：-514257215
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011BD2810
+get视频数据FromStamp timeStamp:1476095340465 视频文件名称：0000000011CC63C0
+get视频数据FromStamp timeStamp:1476095434436 视频文件名称：0000000011CC5BA0
+get视频数据FromStamp timeStamp:1476095499149 视频文件名称：0000000011CC61E0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011BD2810
+get视频数据FromStamp timeStamp:1476095340465 视频文件名称：0000000011CC63C0
+get视频数据FromStamp timeStamp:1476095434436 视频文件名称：0000000011CC5BA0
+get视频数据FromStamp timeStamp:1476095499149 视频文件名称：0000000011CC61E0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011BD19B0
+get视频数据FromStamp timeStamp:1476095340465 视频文件名称：0000000011CC7360
+get视频数据FromStamp timeStamp:1476095434436 视频文件名称：0000000011CC65A0
+get视频数据FromStamp timeStamp:1476095499149 视频文件名称：0000000011CC7540
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011BD2810
+get视频数据FromStamp timeStamp:1476095340465 视频文件名称：0000000011CC63C0
+get视频数据FromStamp timeStamp:1476095434436 视频文件名称：0000000011CC5BA0
+get视频数据FromStamp timeStamp:1476095499149 视频文件名称：0000000011CC61E0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011BD19B0
+get视频数据FromStamp timeStamp:1476095340465 视频文件名称：0000000011CC7360
+get视频数据FromStamp timeStamp:1476095434436 视频文件名称：0000000011CC65A0
+get视频数据FromStamp timeStamp:1476095499149 视频文件名称：0000000011CC7540
+set视频数据有无效 timeStamp:1476095434436 视频文件名称：0000000011CC5BA0
+set视频数据有无效 timeStamp:1476095499149 视频文件名称：0000000011CC61E0
+set视频数据有无效 timeStamp:1476095434436 视频文件名称：0000000011CC65A0
+set视频数据有无效 timeStamp:1476095499149 视频文件名称：0000000011CC7540
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011BD2810
+get视频数据FromStamp timeStamp:1476095340465 视频文件名称：0000000011CC63C0
+get视频数据FromStamp timeStamp:1476095434436 视频文件名称：0000000011CC5BA0
+get视频数据FromStamp timeStamp:1476095499149 视频文件名称：0000000011CC61E0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011BD2810
+get视频数据FromStamp timeStamp:1476095340465 视频文件名称：0000000011CC63C0
+get视频数据FromStamp timeStamp:1476095434436 视频文件名称：0000000011CC5BA0
+get视频数据FromStamp timeStamp:1476095499149 视频文件名称：0000000011CC61E0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011BD19B0
+get视频数据FromStamp timeStamp:1476095340465 视频文件名称：0000000011CC7360
+get视频数据FromStamp timeStamp:1476095434436 视频文件名称：0000000011CC65A0
+get视频数据FromStamp timeStamp:1476095499149 视频文件名称：0000000011CC7540
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:-1373250675 本回合结束时间：-1373194192
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:-1373250675 本回合结束时间：-1373194192
+on发球 t:-513906336  m_is新回合: 1
+on发球 t:-513867460  m_is新回合: 0
+Rec加分 m_本回合开始时间:1476095499149  m_current_time - m_start_time: -513865577
+set视频数据 timeStamp:1476095890787
+set视频数据 本回合开始时间:-1372859037 本回合结束时间：-513865577
+set视频数据 timeStamp:1476095890787
+set视频数据 本回合开始时间:-1372859037 本回合结束时间：-513865577
+on发球 t:-513850227  m_is新回合: 1
+on发球 t:-513813347  m_is新回合: 0
+Rec加分 m_本回合开始时间:1476095890787  m_current_time - m_start_time: -513810554
+set视频数据 timeStamp:1476095945810
+set视频数据 本回合开始时间:-1372804014 本回合结束时间：-513810554
+set视频数据 timeStamp:1476095945810
+set视频数据 本回合开始时间:-1372804014 本回合结束时间：-513810554
+on发球 t:-513806175  m_is新回合: 1
+Rec加分 m_本回合开始时间:1476095945810  m_current_time - m_start_time: -513802391
+set视频数据 timeStamp:1476095953973
+set视频数据 本回合开始时间:-1372795851 本回合结束时间：-513802391
+set视频数据 timeStamp:1476095953973
+set视频数据 本回合开始时间:-1372795851 本回合结束时间：-513802391
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011E00720
+get视频数据FromStamp timeStamp:1476095890787 视频文件名称：0000000018946460
+get视频数据FromStamp timeStamp:1476095945810 视频文件名称：0000000018946500
+get视频数据FromStamp timeStamp:1476095953973 视频文件名称：00000000189475E0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011E00720
+get视频数据FromStamp timeStamp:1476095890787 视频文件名称：0000000018946460
+get视频数据FromStamp timeStamp:1476095945810 视频文件名称：0000000018946500
+get视频数据FromStamp timeStamp:1476095953973 视频文件名称：00000000189475E0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000011E00F40
+get视频数据FromStamp timeStamp:1476095890787 视频文件名称：0000000018946D20
+get视频数据FromStamp timeStamp:1476095945810 视频文件名称：0000000018947360
+get视频数据FromStamp timeStamp:1476095953973 视频文件名称：0000000018947400
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-497113546  m_is新回合: 1
+on发球 t:-497070913  m_is新回合: 0
+Rec加分 m_本回合开始时间:1476112642818  m_current_time - m_start_time: -497069091
+set视频数据 timeStamp:1476112687273
+set视频数据 本回合开始时间:-1356062551 本回合结束时间：-497069091
+set视频数据 timeStamp:1476112687273
+set视频数据 本回合开始时间:-1356062551 本回合结束时间：-497069091
+on发球 t:-496990894  m_is新回合: 1
+on发球 t:-496942291  m_is新回合: 0
+Rec加分 m_本回合开始时间:1476112687273  m_current_time - m_start_time: -496938870
+set视频数据 timeStamp:1476112817494
+set视频数据 本回合开始时间:-1355932330 本回合结束时间：-496938870
+set视频数据 timeStamp:1476112817494
+set视频数据 本回合开始时间:-1355932330 本回合结束时间：-496938870
+on发球 t:-496870667  m_is新回合: 1
+Rec加分 m_本回合开始时间:1476112817494  m_current_time - m_start_time: -496864728
+set视频数据 timeStamp:1476112891636
+set视频数据 本回合开始时间:-1355858188 本回合结束时间：-496864728
+set视频数据 timeStamp:1476112891636
+set视频数据 本回合开始时间:-1355858188 本回合结束时间：-496864728
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000107A48D0
+get视频数据FromStamp timeStamp:1476112687273 视频文件名称：0000000010B7D860
+get视频数据FromStamp timeStamp:1476112817494 视频文件名称：0000000010B7DAE0
+get视频数据FromStamp timeStamp:1476112891636 视频文件名称：0000000010B7D180
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000107A48D0
+get视频数据FromStamp timeStamp:1476112687273 视频文件名称：0000000010B7D860
+get视频数据FromStamp timeStamp:1476112817494 视频文件名称：0000000010B7DAE0
+get视频数据FromStamp timeStamp:1476112891636 视频文件名称：0000000010B7D180
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000107A4FB0
+get视频数据FromStamp timeStamp:1476112687273 视频文件名称：0000000010B7D0E0
+get视频数据FromStamp timeStamp:1476112817494 视频文件名称：0000000010B7DCC0
+get视频数据FromStamp timeStamp:1476112891636 视频文件名称：0000000010B7D4A0
+get视频数据FromStamp timeStamp:0 视频文件名称：00000000107A48D0
+get视频数据FromStamp timeStamp:1476112687273 视频文件名称：0000000010B7D860
+get视频数据FromStamp timeStamp:1476112817494 视频文件名称：0000000010B7DAE0
+get视频数据FromStamp timeStamp:1476112891636 视频文件名称：0000000010B7D180
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+set视频数据 timeStamp:0
+set视频数据 本回合开始时间:0 本回合结束时间：0
+on发球 t:-453099145  m_is新回合: 1
+on发球 t:-453055653  m_is新回合: 0
+Rec加分 m_本回合开始时间:1476156657219  m_current_time - m_start_time: -453053464
+set视频数据 timeStamp:1476156702900
+set视频数据 本回合开始时间:-1312046924 本回合结束时间：-453053464
+set视频数据 timeStamp:1476156702900
+set视频数据 本回合开始时间:-1312046924 本回合结束时间：-453053464
+on发球 t:-453035058  m_is新回合: 1
+on发球 t:-452985286  m_is新回合: 0
+Rec加分 m_本回合开始时间:1476156702900  m_current_time - m_start_time: -452981512
+set视频数据 timeStamp:1476156774852
+set视频数据 本回合开始时间:-1311974972 本回合结束时间：-452981512
+set视频数据 timeStamp:1476156774852
+set视频数据 本回合开始时间:-1311974972 本回合结束时间：-452981512
+on发球 t:-452976096  m_is新回合: 1
+Rec加分 m_本回合开始时间:1476156774852  m_current_time - m_start_time: -452969789
+set视频数据 timeStamp:1476156786575
+set视频数据 本回合开始时间:-1311963249 本回合结束时间：-452969789
+set视频数据 timeStamp:1476156786575
+set视频数据 本回合开始时间:-1311963249 本回合结束时间：-452969789
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010ED4810
+get视频数据FromStamp timeStamp:1476156702900 视频文件名称：0000000010F4E890
+get视频数据FromStamp timeStamp:1476156774852 视频文件名称：0000000010F4E070
+get视频数据FromStamp timeStamp:1476156786575 视频文件名称：0000000010F4E6B0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010ED4810
+get视频数据FromStamp timeStamp:1476156702900 视频文件名称：0000000010F4E890
+get视频数据FromStamp timeStamp:1476156774852 视频文件名称：0000000010F4E070
+get视频数据FromStamp timeStamp:1476156786575 视频文件名称：0000000010F4E6B0
+get视频数据FromStamp timeStamp:0 视频文件名称：0000000010ED50D0
+get视频数据FromStamp timeStamp:1476156702900 视频文件名称：0000000010F4E610
+get视频数据FromStamp timeStamp:1476156774852 视频文件名称：0000000010F4D990
+get视频数据FromStamp timeStamp:1476156786575 视频文件名称：0000000010F4DE90
+data.time:0
+data.p1_得分:0
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:0
+data.发球人:2
+data.发球状态:0
+data.动作:1
+data.time:67
+data.p1_得分:0
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:0
+data.发球人:2
+data.发球状态:0
+data.动作:1
+data.time:79
+data.p1_得分:1
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:135
+data.发球人:2
+data.发球状态:2
+data.动作:3
+data.time:17
+data.p1_得分:1
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:0
+data.发球人:2
+data.发球状态:0
+data.动作:1
+data.time:59
+data.p1_得分:1
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:0
+data.发球人:2
+data.发球状态:0
+data.动作:1
+data.time:67
+data.p1_得分:1
+data.p2_得分:1
+data.p1_速度:0
+data.p2_速度:129
+data.发球人:2
+data.发球状态:0
+data.动作:3
+data.time:6
+data.p1_得分:1
+data.p2_得分:1
+data.p1_速度:0
+data.p2_速度:0
+data.发球人:2
+data.发球状态:0
+data.动作:1
+data.time:14
+data.p1_得分:1
+data.p2_得分:2
+data.p1_速度:0
+data.p2_速度:111
+data.发球人:2
+data.发球状态:1
+data.动作:3
+data.time:0
+data.p1_得分:0
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:0
+data.发球人:2
+data.发球状态:0
+data.动作:1
+data.time:50
+data.p1_得分:0
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:0
+data.发球人:2
+data.发球状态:0
+data.动作:1
+data.time:56
+data.p1_得分:1
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:135
+data.发球人:2
+data.发球状态:2
+data.动作:3
+data.time:15
+data.p1_得分:1
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:0
+data.发球人:2
+data.发球状态:0
+data.动作:1
+data.time:38
+data.p1_得分:1
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:135
+data.发球人:2
+data.发球状态:2
+data.动作:3
+data.time:57
+data.p1_得分:1
+data.p2_得分:1
+data.p1_速度:0
+data.p2_速度:129
+data.发球人:2
+data.发球状态:0
+data.动作:3
+data.time:9
+data.p1_得分:1
+data.p2_得分:2
+data.p1_速度:0
+data.p2_速度:111
+data.发球人:2
+data.发球状态:1
+data.动作:3
+data.time:39
+data.p1_得分:1
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:135
+data.发球人:2
+data.发球状态:2
+data.动作:3
+data.time:58
+data.p1_得分:1
+data.p2_得分:1
+data.p1_速度:0
+data.p2_速度:129
+data.发球人:2
+data.发球状态:0
+data.动作:3
+data.time:10
+data.p1_得分:1
+data.p2_得分:2
+data.p1_速度:0
+data.p2_速度:0
+data.发球人:2
+data.发球状态:1
+data.动作:3
+data.time:38
+data.p1_得分:1
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:135
+data.发球人:2
+data.发球状态:2
+data.动作:3
+data.time:59
+data.p1_得分:1
+data.p2_得分:1
+data.p1_速度:0
+data.p2_速度:129
+data.发球人:2
+data.发球状态:0
+data.动作:3
+data.time:9
+data.p1_得分:1
+data.p2_得分:2
+data.p1_速度:0
+data.p2_速度:111
+data.发球人:2
+data.发球状态:1
+data.动作:3
+data.time:38
+data.p1_得分:1
+data.p2_得分:0
+data.p1_速度:0
+data.p2_速度:135
+data.发球人:2
+data.发球状态:2
+data.动作:3
+data.time:57
+data.p1_得分:1
+data.p2_得分:1
+data.p1_速度:0
+data.p2_速度:129
+data.发球人:2
+data.发球状态:0
+data.动作:3
+data.time:9
+data.p1_得分:1
+data.p2_得分:2
+data.p1_速度:0
+data.p2_速度:111
+data.发球人:2
+data.发球状态:1
+data.动作:3
+data.time:70
+data.p1_得分:0
+data.p2_得分:1
+data.p1_速度:87
+data.p2_速度:0
+data.发球人:1
+data.发球状态:2
+data.动作:3

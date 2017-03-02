@@ -1,0 +1,1688 @@
+m_Bout->start():1
+开始录：balltimeStamp: 0 m_start_timestamp:0
+开始录：balltimeStamp: 1010 m_start_timestamp:0
+开始录：balltimeStamp: 1475898336293 m_start_timestamp:1475898333808
+开始录：balltimeStamp: 1475898337303 m_start_timestamp:1475898333808
+m_Bout->stop():1
+m_Bout->start():1
+开始录：balltimeStamp: 0 m_start_timestamp:0
+开始录：balltimeStamp: 1010 m_start_timestamp:0
+m_Bout->start():1
+开始录：balltimeStamp: 0 m_start_timestamp:0
+开始录：balltimeStamp: 1010 m_start_timestamp:0
+m_Bout->start():1
+开始录：balltimeStamp: 0 m_start_timestamp:0
+开始录：balltimeStamp: 1010 m_start_timestamp:0
+开始录：balltimeStamp: 1475907048875 m_start_timestamp:1475907046266
+开始录：balltimeStamp: 1475907049885 m_start_timestamp:1475907046266
+m_Bout->start():1
+开始录：balltimeStamp: 0 m_start_timestamp:0
+开始录：balltimeStamp: 1010 m_start_timestamp:0
+开始录：balltimeStamp: 1475907087654 m_start_timestamp:1475907084734
+开始录：balltimeStamp: 1475907088664 m_start_timestamp:1475907084734
+m_Bout->stop():1
+m_Bout->start():1
+开始录：balltimeStamp: 0 m_start_timestamp:0
+开始录：balltimeStamp: 1010 m_start_timestamp:0
+m_Bout->start():1
+开始录：balltimeStamp: 0 m_start_timestamp:0
+开始录：balltimeStamp: 1010 m_start_timestamp:0
+开始录：balltimeStamp: 1475914982253 m_start_timestamp:1475914980664
+开始录：balltimeStamp: 1475914983263 m_start_timestamp:1475914980664
+m_Bout->stop():1
+0 false
+1 true
+0it startTimestamp:0 endTimestamp:0
+vdata->isDeprecated0
+1it startTimestamp:-694831670 endTimestamp:-694774111
+vdata->isDeprecated0
+0 false
+1 true
+0it startTimestamp:0 endTimestamp:0
+vdata->isDeprecated0
+1it startTimestamp:-694831670 endTimestamp:-694774111
+vdata->isDeprecated0
+0 false
+1 true
+0it startTimestamp:-694831670 endTimestamp:-694774111
+vdata->isDeprecated0
+1it startTimestamp:-694831670 endTimestamp:-694774111
+vdata->isDeprecated0
+From data.startTime: -694831670 data.endTime:-694774111
+Got1  it->startTimestamp:-694831670 it->endTimestamp:-694774111
+NameA: 
+From data.startTime: -694831670 data.endTime:-694774111
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp+1010: 1010 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1475925724784 balltimeStamp-m_lastTimeStamp:1523
+开始录：balltimeStamp+1010: 1475925727317 balltimeStamp-m_lastTimeStamp:1523
+开始录：m_lastTimeStamp: 1475925850445 balltimeStamp-m_lastTimeStamp:2543
+开始录：balltimeStamp+1010: 1475925853998 balltimeStamp-m_lastTimeStamp:2543
+开始录：m_lastTimeStamp: 1475925942442 balltimeStamp-m_lastTimeStamp:3396
+开始录：balltimeStamp+1010: 1475925946848 balltimeStamp-m_lastTimeStamp:3396
+m_Bout->stop():1
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475925726307
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475925852988
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475925945838
+vdata->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475925726307
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475925852988
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475925945838
+vdata->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1010
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475925727317
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475925853998
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475925946848
+vdata->isDeprecated:0
+Got1  it->timeDidentify:0
+NameA: 
+From data.startTime: -684064060 data.endTime:-684030057
+From data.startTime: -684064060 data.endTime:-684030057
+From data.startTime: -684064060 data.endTime:-684030057
+From data.startTime: -684064060 data.endTime:-684030057
+Got1  it->timeDidentify:0
+NameA: 
+From data.startTime: -683938701 data.endTime:-683903376
+From data.startTime: -683938701 data.endTime:-683903376
+From data.startTime: -683938701 data.endTime:-683903376
+From data.startTime: -683938701 data.endTime:-683903376
+Got1  it->timeDidentify:0
+NameA: 
+From data.startTime: -683813922 data.endTime:-683810526
+From data.startTime: -683813922 data.endTime:-683810526
+From data.startTime: -683813922 data.endTime:-683810526
+From data.startTime: -683813922 data.endTime:-683810526
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475925726307
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475925852988
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475925945838
+vdata->isDeprecated:0
+From data.startTime: -684064060 data.endTime:-684030057
+From data.startTime: -684064060 data.endTime:-684030057
+From data.startTime: -684064060 data.endTime:-684030057
+From data.startTime: -684064060 data.endTime:-684030057
+From data.startTime: -683938701 data.endTime:-683903376
+From data.startTime: -683938701 data.endTime:-683903376
+From data.startTime: -683938701 data.endTime:-683903376
+From data.startTime: -683938701 data.endTime:-683903376
+From data.startTime: -683813922 data.endTime:-683810526
+From data.startTime: -683813922 data.endTime:-683810526
+From data.startTime: -683813922 data.endTime:-683810526
+From data.startTime: -683813922 data.endTime:-683810526
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp+1010: 1010 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1475927582940 balltimeStamp-m_lastTimeStamp:1548
+开始录：balltimeStamp+1010: 1475927585498 balltimeStamp-m_lastTimeStamp:1548
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1475939283771 balltimeStamp-m_lastTimeStamp:1874
+开始录：balltimeStamp: 1475939285645 balltimeStamp-m_lastTimeStamp:1874
+开始录：m_lastTimeStamp: 1475939283771 balltimeStamp-m_lastTimeStamp:1974
+开始录：balltimeStamp: 1475939285745 balltimeStamp-m_lastTimeStamp:1974
+开始录：m_lastTimeStamp: 1475939444449 balltimeStamp-m_lastTimeStamp:2981
+开始录：balltimeStamp: 1475939447430 balltimeStamp-m_lastTimeStamp:2981
+开始录：m_lastTimeStamp: 1475939451908 balltimeStamp-m_lastTimeStamp:4571
+开始录：balltimeStamp: 1475939456479 balltimeStamp-m_lastTimeStamp:4571
+开始录：m_lastTimeStamp: 1475939451908 balltimeStamp-m_lastTimeStamp:4671
+开始录：balltimeStamp: 1475939456579 balltimeStamp-m_lastTimeStamp:4671
+m_Bout->stop():1
+0 false
+1 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:1
+Got isDeprecated is true i:0
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939285645
+vdata->isDeprecated:1
+Got isDeprecated is true i:1
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939285745
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939447430
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939456479
+vdata->isDeprecated:1
+Got isDeprecated is true i:4
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939456579
+vdata->isDeprecated:1
+Got isDeprecated is true i:5
+ name:
+0 false
+1 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:1
+Got isDeprecated is true i:0
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939285645
+vdata->isDeprecated:1
+Got isDeprecated is true i:1
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939285745
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939447430
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939456479
+vdata->isDeprecated:1
+Got isDeprecated is true i:4
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939456579
+vdata->isDeprecated:1
+Got isDeprecated is true i:5
+ name:
+0 false
+1 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475939285645
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475939285745
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475939447430
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475939456479
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475939456579
+vdata->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1475939285745
+inx: 1
+it->timeDidentify: 0
+it->timeDidentify: 1475939285645
+it->timeDidentify: 1475939285745
+it->timeDidentify: 1475939447430
+it->timeDidentify: 1475939456479
+it->timeDidentify: 1475939456579
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1475939285745
+inx: 1
+it->timeDidentify: 0
+it->timeDidentify: 1475939285645
+it->timeDidentify: 1475939285745
+it->timeDidentify: 1475939447430
+it->timeDidentify: 1475939456479
+it->timeDidentify: 1475939456579
+0 false
+1 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:1
+Got isDeprecated is true i:0
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939285645
+vdata->isDeprecated:1
+Got isDeprecated is true i:1
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939285745
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939447430
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939456479
+vdata->isDeprecated:1
+Got isDeprecated is true i:4
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475939456579
+vdata->isDeprecated:1
+Got isDeprecated is true i:5
+ name:
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:1475939285745
+inx: 1
+it->timeDidentify: 0
+it->timeDidentify: 1475939285645
+Got2  data.timeDidentify:1475939285745
+NameB: 
+it->timeDidentify: 1475939285745
+it->timeDidentify: 1475939447430
+it->timeDidentify: 1475939456479
+it->timeDidentify: 1475939456579
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1475986888549 balltimeStamp-m_lastTimeStamp:1538
+开始录：balltimeStamp: 1475986890087 balltimeStamp-m_lastTimeStamp:1538
+开始录：m_lastTimeStamp: 1475986939162 balltimeStamp-m_lastTimeStamp:2605
+开始录：balltimeStamp: 1475986941767 balltimeStamp-m_lastTimeStamp:2605
+开始录：m_lastTimeStamp: 1475986946014 balltimeStamp-m_lastTimeStamp:4666
+开始录：balltimeStamp: 1475986950680 balltimeStamp-m_lastTimeStamp:4666
+m_Bout->stop():1
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475986890087
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475986941767
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475986950680
+vdata->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475986890087
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475986941767
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475986950680
+vdata->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475986890087
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475986941767
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475986950680
+vdata->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475986890087
+m_mapData[3]->timeDidentify:1475986941767
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1475986890087
+it->timeDidentify: 1475986941767
+it->timeDidentify: 1475986950680
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475986890087
+m_mapData[3]->timeDidentify:1475986941767
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1475986890087
+NameA: 
+it->timeDidentify: 1475986890087
+it->timeDidentify: 1475986941767
+it->timeDidentify: 1475986950680
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475986890087
+m_mapData[3]->timeDidentify:1475986941767
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1475986890087
+Got1  data.timeDidentify:1475986941767
+NameA: 
+it->timeDidentify: 1475986941767
+it->timeDidentify: 1475986950680
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475986890087
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475986941767
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475986950680
+vdata->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475986890087
+m_mapData[3]->timeDidentify:1475986941767
+inx: 1
+Got2  data.timeDidentify:0
+NameB: 
+it->timeDidentify: 0
+it->timeDidentify: 1475986890087
+it->timeDidentify: 1475986941767
+it->timeDidentify: 1475986950680
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475986890087
+m_mapData[3]->timeDidentify:1475986941767
+inx: 2
+it->timeDidentify: 0
+Got2  data.timeDidentify:1475986890087
+NameB: 
+it->timeDidentify: 1475986890087
+it->timeDidentify: 1475986941767
+it->timeDidentify: 1475986950680
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475986890087
+m_mapData[3]->timeDidentify:1475986941767
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1475986890087
+Got2  data.timeDidentify:1475986941767
+NameB: 
+it->timeDidentify: 1475986941767
+it->timeDidentify: 1475986950680
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475986890087
+m_mapData[3]->timeDidentify:1475986941767
+inx: 1
+Got2  data.timeDidentify:0
+NameB: 
+it->timeDidentify: 0
+it->timeDidentify: 1475986890087
+it->timeDidentify: 1475986941767
+it->timeDidentify: 1475986950680
+m_Bout->start():1
+开始录：m_lastTimeStamp: 1475986946014 balltimeStamp-m_lastTimeStamp:-1475986946014
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:-1475986946014
+开始录：m_lastTimeStamp: 1475987040816 balltimeStamp-m_lastTimeStamp:1472
+开始录：balltimeStamp: 1475987042288 balltimeStamp-m_lastTimeStamp:1472
+开始录：m_lastTimeStamp: 1475987089740 balltimeStamp-m_lastTimeStamp:2655
+开始录：balltimeStamp: 1475987092395 balltimeStamp-m_lastTimeStamp:2655
+开始录：m_lastTimeStamp: 1475987096657 balltimeStamp-m_lastTimeStamp:4553
+开始录：balltimeStamp: 1475987101210 balltimeStamp-m_lastTimeStamp:4553
+m_Bout->stop():1
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+m_mapData[3]->timeDidentify:1475987092395
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+m_mapData[3]->timeDidentify:1475987092395
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1475987042288
+NameA: 
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+m_mapData[3]->timeDidentify:1475987092395
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1475987042288
+Got1  data.timeDidentify:1475987092395
+NameA: 
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+m_mapData[3]->timeDidentify:1475987092395
+inx: 1
+Got2  data.timeDidentify:0
+NameB: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+m_mapData[3]->timeDidentify:1475987092395
+inx: 2
+it->timeDidentify: 0
+Got2  data.timeDidentify:1475987042288
+NameB: 
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+m_mapData[3]->timeDidentify:1475987092395
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1475987042288
+Got2  data.timeDidentify:1475987092395
+NameB: 
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_Bout->stop():1
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+0 false
+1 true
+2 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1475987042288
+NameA: 
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+inx: 1
+Got2  data.timeDidentify:0
+NameB: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+inx: 2
+it->timeDidentify: 0
+Got2  data.timeDidentify:1475987042288
+NameB: 
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_Bout->stop():1
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+0 false
+1 true
+2 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1475987042288
+NameA: 
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987042288
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987092395
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987101210
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+inx: 1
+Got2  data.timeDidentify:0
+NameB: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987042288
+inx: 2
+it->timeDidentify: 0
+Got2  data.timeDidentify:1475987042288
+NameB: 
+it->timeDidentify: 1475987042288
+it->timeDidentify: 1475987092395
+it->timeDidentify: 1475987101210
+m_Bout->start():1
+开始录：m_lastTimeStamp: 1475987096657 balltimeStamp-m_lastTimeStamp:-1475987096657
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:-1475987096657
+开始录：m_lastTimeStamp: 1475987289158 balltimeStamp-m_lastTimeStamp:1502
+开始录：balltimeStamp: 1475987290660 balltimeStamp-m_lastTimeStamp:1502
+开始录：m_lastTimeStamp: 1475987339005 balltimeStamp-m_lastTimeStamp:2542
+开始录：balltimeStamp: 1475987341547 balltimeStamp-m_lastTimeStamp:2542
+开始录：m_lastTimeStamp: 1475987345771 balltimeStamp-m_lastTimeStamp:4488
+开始录：balltimeStamp: 1475987350259 balltimeStamp-m_lastTimeStamp:4488
+m_Bout->stop():1
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987290660
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987341547
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987350259
+vdata->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987290660
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987341547
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987350259
+vdata->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987290660
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987341547
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987350259
+vdata->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987290660
+m_mapData[3]->timeDidentify:1475987341547
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987290660
+it->timeDidentify: 1475987341547
+it->timeDidentify: 1475987350259
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987290660
+m_mapData[3]->timeDidentify:1475987341547
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1475987290660
+NameA: 
+it->timeDidentify: 1475987290660
+it->timeDidentify: 1475987341547
+it->timeDidentify: 1475987350259
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987290660
+m_mapData[3]->timeDidentify:1475987341547
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1475987290660
+Got1  data.timeDidentify:1475987341547
+NameA: 
+it->timeDidentify: 1475987341547
+it->timeDidentify: 1475987350259
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987290660
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987341547
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987350259
+vdata->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987290660
+m_mapData[3]->timeDidentify:1475987341547
+inx: 1
+Got2  data.timeDidentify:0
+NameB: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987290660
+it->timeDidentify: 1475987341547
+it->timeDidentify: 1475987350259
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987290660
+m_mapData[3]->timeDidentify:1475987341547
+inx: 2
+it->timeDidentify: 0
+Got2  data.timeDidentify:1475987290660
+NameB: 
+it->timeDidentify: 1475987290660
+it->timeDidentify: 1475987341547
+it->timeDidentify: 1475987350259
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987290660
+m_mapData[3]->timeDidentify:1475987341547
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1475987290660
+Got2  data.timeDidentify:1475987341547
+NameB: 
+it->timeDidentify: 1475987341547
+it->timeDidentify: 1475987350259
+m_Bout->stop():1
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987290660
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987341547
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987350259
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987290660
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987341547
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987350259
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+0 false
+1 true
+2 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987290660
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987341547
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987350259
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987290660
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987290660
+it->timeDidentify: 1475987341547
+it->timeDidentify: 1475987350259
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987290660
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1475987290660
+NameA: 
+it->timeDidentify: 1475987290660
+it->timeDidentify: 1475987341547
+it->timeDidentify: 1475987350259
+m_Bout->stop():1
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987290660
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987341547
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987350259
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987290660
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987341547
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1475987350259
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+0 false
+1 true
+2 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987290660
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987341547
+vdata->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1475987350259
+vdata->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987290660
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1475987290660
+it->timeDidentify: 1475987341547
+it->timeDidentify: 1475987350259
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1475987290660
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1475987290660
+NameA: 
+it->timeDidentify: 1475987290660
+it->timeDidentify: 1475987341547
+it->timeDidentify: 1475987350259
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476001424941 balltimeStamp-m_lastTimeStamp:5397
+开始录：balltimeStamp: 1476001430338 balltimeStamp-m_lastTimeStamp:5397
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476007871345 balltimeStamp-m_lastTimeStamp:1626
+开始录：balltimeStamp: 1476007872971 balltimeStamp-m_lastTimeStamp:1626
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476008803943 balltimeStamp-m_lastTimeStamp:1781
+开始录：balltimeStamp: 1476008805724 balltimeStamp-m_lastTimeStamp:1781
+开始录：m_lastTimeStamp: 1476008947523 balltimeStamp-m_lastTimeStamp:2823
+开始录：balltimeStamp: 1476008950346 balltimeStamp-m_lastTimeStamp:2823
+开始录：m_lastTimeStamp: 1476009001136 balltimeStamp-m_lastTimeStamp:6395
+开始录：balltimeStamp: 1476009007531 balltimeStamp-m_lastTimeStamp:6395
+m_Bout->stop():1
+0 false
+1 true
+data.startTime:0 data.endTime: -1459944100 t:1459944
+2 true
+data.startTime:-1459944100 data.endTime: 144622 t:144
+3 true
+data.startTime:-1459799478 data.endTime: 57185 t:57
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476008805724
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476008950346
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476009007531
+vdata->isDeprecated:0
+0 false
+1 true
+data.startTime:0 data.endTime: -1459944100 t:1459944
+2 true
+data.startTime:-1459944100 data.endTime: 144622 t:144
+3 true
+data.startTime:-1459799478 data.endTime: 57185 t:57
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476008805724
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476008950346
+vdata->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476009007531
+vdata->isDeprecated:0
+0 false
+1 true
+data.startTime:0 data.endTime: -1459944100 t:1459944
+2 true
+data.startTime:-1459944100 data.endTime: 144622 t:144
+3 true
+data.startTime:-1459799478 data.endTime: 57185 t:57
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476008805724
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476008950346
+vdata->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476009007531
+vdata->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476008805724
+m_mapData[3]->timeDidentify:1476008950346
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1476008805724
+Got1  data.timeDidentify:1476008950346
+NameA: 
+it->timeDidentify: 1476008950346
+it->timeDidentify: 1476009007531
+m_Bout->start():1
+开始录：m_lastTimeStamp: 1476016301159 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 1476016301159 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476016354848 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 1476016354848 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476016397639 balltimeStamp-m_lastTimeStamp:0
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476090707741 balltimeStamp-m_lastTimeStamp:1449
+开始录：balltimeStamp: 1476090709190 balltimeStamp-m_lastTimeStamp:1449
+m_Bout->stop():1
+0 false
+1 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476090709190
+m_videoData->isDeprecated:0
+0 false
+1 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476090709190
+m_videoData->isDeprecated:0
+0 false
+1 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476090709190
+m_videoData->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:-2
+inx: 1
+it->timeDidentify: 0
+it->timeDidentify: 1476090709190
+0 false
+1 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476090709190
+m_videoData->isDeprecated:0
+0 false
+1 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476090709190
+m_videoData->isDeprecated:0
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476095338529 balltimeStamp-m_lastTimeStamp:1936
+开始录：balltimeStamp: 1476095340465 balltimeStamp-m_lastTimeStamp:1936
+开始录：m_lastTimeStamp: 1476095430462 balltimeStamp-m_lastTimeStamp:3974
+开始录：balltimeStamp: 1476095434436 balltimeStamp-m_lastTimeStamp:3974
+开始录：m_lastTimeStamp: 1476095494075 balltimeStamp-m_lastTimeStamp:5074
+开始录：balltimeStamp: 1476095499149 balltimeStamp-m_lastTimeStamp:5074
+m_Bout->stop():1
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095340465
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095434436
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095499149
+m_videoData->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095340465
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095434436
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095499149
+m_videoData->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095340465
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095434436
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095499149
+m_videoData->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476095340465
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1476095340465
+NameA: 
+it->timeDidentify: 1476095340465
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1476095340465
+Got1  data.timeDidentify:1476095434436
+NameA: 
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095340465
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095434436
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095499149
+m_videoData->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 1
+Got2  data.timeDidentify:0
+NameB: 
+it->timeDidentify: 0
+it->timeDidentify: 1476095340465
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 2
+it->timeDidentify: 0
+Got2  data.timeDidentify:1476095340465
+NameB: 
+it->timeDidentify: 1476095340465
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1476095340465
+Got2  data.timeDidentify:1476095434436
+NameB: 
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095340465
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095434436
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095499149
+m_videoData->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476095340465
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1476095340465
+NameA: 
+it->timeDidentify: 1476095340465
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1476095340465
+Got1  data.timeDidentify:1476095434436
+NameA: 
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1476095340465
+NameA: 
+it->timeDidentify: 1476095340465
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+m_mapData[3]->timeDidentify:1476095434436
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476095340465
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_Bout->stop():1
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095340465
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095434436
+m_videoData->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095499149
+m_videoData->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+0 false
+1 true
+2 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095340465
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095434436
+m_videoData->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095499149
+m_videoData->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+0 false
+1 true
+2 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095340465
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095434436
+m_videoData->isDeprecated:1
+Got isDeprecated is true i:2
+ name:
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095499149
+m_videoData->isDeprecated:1
+Got isDeprecated is true i:3
+ name:
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476095340465
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095340465
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1476095340465
+NameA: 
+it->timeDidentify: 1476095340465
+it->timeDidentify: 1476095434436
+it->timeDidentify: 1476095499149
+m_Bout->start():1
+开始录：m_lastTimeStamp: 1476095494075 balltimeStamp-m_lastTimeStamp:-1476095494075
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:-1476095494075
+开始录：m_lastTimeStamp: 1476095888904 balltimeStamp-m_lastTimeStamp:1883
+开始录：balltimeStamp: 1476095890787 balltimeStamp-m_lastTimeStamp:1883
+开始录：m_lastTimeStamp: 1476095943017 balltimeStamp-m_lastTimeStamp:2793
+开始录：balltimeStamp: 1476095945810 balltimeStamp-m_lastTimeStamp:2793
+开始录：m_lastTimeStamp: 1476095950189 balltimeStamp-m_lastTimeStamp:3784
+开始录：balltimeStamp: 1476095953973 balltimeStamp-m_lastTimeStamp:3784
+m_Bout->stop():1
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095890787
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095945810
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095953973
+m_videoData->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095890787
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095945810
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476095953973
+m_videoData->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095890787
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095945810
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476095953973
+m_videoData->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095890787
+m_mapData[3]->timeDidentify:1476095945810
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476095890787
+it->timeDidentify: 1476095945810
+it->timeDidentify: 1476095953973
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095890787
+m_mapData[3]->timeDidentify:1476095945810
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1476095890787
+NameA: 
+it->timeDidentify: 1476095890787
+it->timeDidentify: 1476095945810
+it->timeDidentify: 1476095953973
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476095890787
+m_mapData[3]->timeDidentify:1476095945810
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1476095890787
+Got1  data.timeDidentify:1476095945810
+NameA: 
+it->timeDidentify: 1476095945810
+it->timeDidentify: 1476095953973
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476112685451 balltimeStamp-m_lastTimeStamp:1822
+开始录：balltimeStamp: 1476112687273 balltimeStamp-m_lastTimeStamp:1822
+开始录：m_lastTimeStamp: 1476112814073 balltimeStamp-m_lastTimeStamp:3421
+开始录：balltimeStamp: 1476112817494 balltimeStamp-m_lastTimeStamp:3421
+开始录：m_lastTimeStamp: 1476112885697 balltimeStamp-m_lastTimeStamp:5939
+开始录：balltimeStamp: 1476112891636 balltimeStamp-m_lastTimeStamp:5939
+m_Bout->stop():1
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476112687273
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476112817494
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476112891636
+m_videoData->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476112687273
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476112817494
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476112891636
+m_videoData->isDeprecated:0
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoBfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476112687273
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476112817494
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoBfileNames[i].timeDidentify:1476112891636
+m_videoData->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476112687273
+m_mapData[3]->timeDidentify:1476112817494
+inx: 1
+Got1  data.timeDidentify:0
+NameA: 
+it->timeDidentify: 0
+it->timeDidentify: 1476112687273
+it->timeDidentify: 1476112817494
+it->timeDidentify: 1476112891636
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476112687273
+m_mapData[3]->timeDidentify:1476112817494
+inx: 2
+it->timeDidentify: 0
+Got1  data.timeDidentify:1476112687273
+NameA: 
+it->timeDidentify: 1476112687273
+it->timeDidentify: 1476112817494
+it->timeDidentify: 1476112891636
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476112687273
+m_mapData[3]->timeDidentify:1476112817494
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1476112687273
+Got1  data.timeDidentify:1476112817494
+NameA: 
+it->timeDidentify: 1476112817494
+it->timeDidentify: 1476112891636
+0 false
+1 true
+2 true
+3 true
+m_比赛中->m_VideoAfileNames[i].timeDidentify:0
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476112687273
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476112817494
+m_videoData->isDeprecated:0
+m_比赛中->m_VideoAfileNames[i].timeDidentify:1476112891636
+m_videoData->isDeprecated:0
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476112687273
+m_mapData[3]->timeDidentify:1476112817494
+inx: 1
+Got2  data.timeDidentify:0
+NameB: 
+it->timeDidentify: 0
+it->timeDidentify: 1476112687273
+it->timeDidentify: 1476112817494
+it->timeDidentify: 1476112891636
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476112687273
+m_mapData[3]->timeDidentify:1476112817494
+inx: 2
+it->timeDidentify: 0
+Got2  data.timeDidentify:1476112687273
+NameB: 
+it->timeDidentify: 1476112687273
+it->timeDidentify: 1476112817494
+it->timeDidentify: 1476112891636
+m_mapData[0]->timeDidentify:0
+m_mapData[1]->timeDidentify:0
+m_mapData[2]->timeDidentify:1476112687273
+m_mapData[3]->timeDidentify:1476112817494
+inx: 3
+it->timeDidentify: 0
+it->timeDidentify: 1476112687273
+Got2  data.timeDidentify:1476112817494
+NameB: 
+it->timeDidentify: 1476112817494
+it->timeDidentify: 1476112891636
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476156700711 balltimeStamp-m_lastTimeStamp:2189
+开始录：balltimeStamp: 1476156702900 balltimeStamp-m_lastTimeStamp:2189
+开始录：m_lastTimeStamp: 1476156771078 balltimeStamp-m_lastTimeStamp:3774
+开始录：balltimeStamp: 1476156774852 balltimeStamp-m_lastTimeStamp:3774
+开始录：m_lastTimeStamp: 1476156780268 balltimeStamp-m_lastTimeStamp:6307
+开始录：balltimeStamp: 1476156786575 balltimeStamp-m_lastTimeStamp:6307
+m_Bout->stop():1
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476177529981 balltimeStamp-m_lastTimeStamp:1603
+开始录：balltimeStamp: 1476177531584 balltimeStamp-m_lastTimeStamp:1603
+开始录：m_lastTimeStamp: 1476177538968 balltimeStamp-m_lastTimeStamp:3463
+开始录：balltimeStamp: 1476177542431 balltimeStamp-m_lastTimeStamp:3463
+开始录：m_lastTimeStamp: 1476177542564 balltimeStamp-m_lastTimeStamp:2093
+开始录：balltimeStamp: 1476177544657 balltimeStamp-m_lastTimeStamp:2093
+开始录：m_lastTimeStamp: 1476177545357 balltimeStamp-m_lastTimeStamp:3987
+开始录：balltimeStamp: 1476177549344 balltimeStamp-m_lastTimeStamp:3987
+开始录：m_lastTimeStamp: 1476177550591 balltimeStamp-m_lastTimeStamp:2264
+开始录：balltimeStamp: 1476177552855 balltimeStamp-m_lastTimeStamp:2264
+开始录：m_lastTimeStamp: 1476177553534 balltimeStamp-m_lastTimeStamp:3353
+开始录：balltimeStamp: 1476177556887 balltimeStamp-m_lastTimeStamp:3353
+开始录：m_lastTimeStamp: 1476177557029 balltimeStamp-m_lastTimeStamp:1522
+开始录：balltimeStamp: 1476177558551 balltimeStamp-m_lastTimeStamp:1522
+开始录：m_lastTimeStamp: 1476177559254 balltimeStamp-m_lastTimeStamp:1485
+开始录：balltimeStamp: 1476177560739 balltimeStamp-m_lastTimeStamp:1485
+m_Bout->stop():1
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476178329395 balltimeStamp-m_lastTimeStamp:11925
+开始录：balltimeStamp: 1476178341320 balltimeStamp-m_lastTimeStamp:11925
+开始录：m_lastTimeStamp: 1476178401171 balltimeStamp-m_lastTimeStamp:7789
+开始录：balltimeStamp: 1476178408960 balltimeStamp-m_lastTimeStamp:7789
+开始录：m_lastTimeStamp: 1476178415142 balltimeStamp-m_lastTimeStamp:8336
+开始录：balltimeStamp: 1476178423478 balltimeStamp-m_lastTimeStamp:8336
+m_Bout->stop():1
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476178987158 balltimeStamp-m_lastTimeStamp:6137
+开始录：balltimeStamp: 1476178993295 balltimeStamp-m_lastTimeStamp:6137
+m_Bout->stop():1
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476182002098 balltimeStamp-m_lastTimeStamp:1674
+开始录：balltimeStamp: 1476182003772 balltimeStamp-m_lastTimeStamp:1674
+开始录：m_lastTimeStamp: 1476182058038 balltimeStamp-m_lastTimeStamp:3158
+开始录：balltimeStamp: 1476182061196 balltimeStamp-m_lastTimeStamp:3158
+开始录：m_lastTimeStamp: 1476182065887 balltimeStamp-m_lastTimeStamp:4791
+开始录：balltimeStamp: 1476182070678 balltimeStamp-m_lastTimeStamp:4791
+m_Bout->stop():1
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476182764114 balltimeStamp-m_lastTimeStamp:1722
+开始录：balltimeStamp: 1476182765836 balltimeStamp-m_lastTimeStamp:1722
+开始录：m_lastTimeStamp: 1476182821125 balltimeStamp-m_lastTimeStamp:3382
+开始录：balltimeStamp: 1476182824507 balltimeStamp-m_lastTimeStamp:3382
+开始录：m_lastTimeStamp: 1476182829326 balltimeStamp-m_lastTimeStamp:5314
+开始录：balltimeStamp: 1476182834640 balltimeStamp-m_lastTimeStamp:5314
+m_Bout->stop():1
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476183308680 balltimeStamp-m_lastTimeStamp:1687
+开始录：balltimeStamp: 1476183310367 balltimeStamp-m_lastTimeStamp:1687
+开始录：m_lastTimeStamp: 1476183366392 balltimeStamp-m_lastTimeStamp:3257
+开始录：balltimeStamp: 1476183369649 balltimeStamp-m_lastTimeStamp:3257
+开始录：m_lastTimeStamp: 1476183374346 balltimeStamp-m_lastTimeStamp:4782
+开始录：balltimeStamp: 1476183379128 balltimeStamp-m_lastTimeStamp:4782
+m_Bout->stop():1
+m_Bout->start():1
+开始录：m_lastTimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：balltimeStamp: 0 balltimeStamp-m_lastTimeStamp:0
+开始录：m_lastTimeStamp: 1476184048269 balltimeStamp-m_lastTimeStamp:1705
+开始录：balltimeStamp: 1476184049974 balltimeStamp-m_lastTimeStamp:1705
+开始录：m_lastTimeStamp: 1476184104539 balltimeStamp-m_lastTimeStamp:3097
+开始录：balltimeStamp: 1476184107636 balltimeStamp-m_lastTimeStamp:3097
+开始录：m_lastTimeStamp: 1476184112559 balltimeStamp-m_lastTimeStamp:4930
+开始录：balltimeStamp: 1476184117489 balltimeStamp-m_lastTimeStamp:4930
+m_Bout->stop():1
+ 摄像头没有初始化或者初始化失败，直接退出
+ 摄像头没有初始化或者初始化失败，直接退出
+ 摄像头没有初始化或者初始化失败，直接退出
+ 摄像头没有初始化或者初始化失败，直接退出
+ 摄像头没有初始化或者初始化失败，直接退出
+ 摄像头没有初始化或者初始化失败，直接退出
+ 摄像头没有初始化或者初始化失败，直接退出
+ 摄像头没有初始化或者初始化失败，直接退出
